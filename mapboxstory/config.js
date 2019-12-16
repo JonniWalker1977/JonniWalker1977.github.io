@@ -3,7 +3,7 @@ var config = {
     accessToken: 'pk.eyJ1Ijoiam9ubml3YWxrZXIiLCJhIjoiY2loeG82cWplMDA4N3cxa3MzZXU2N2JpYSJ9.H6vPKI0UKLv733mSCXh2Lw',
     showMarkers: false,
     theme: 'light',
-    alignment: 'right',
+    alignment: 'left',
     title: 'Rainforest thingymebob',
     subtitle: 'ARGHHH THE WORLD IS ENDING',
     byline: '',
