@@ -15,10 +15,10 @@ var config = {
             image: '',
             description: 'Getting around Philadelphia on two wheels is fast, fun, and cheap. As a typical East Coast large city, the urban core is dense, so there is a lot within reach of a 15 minute ride... even mountain bike trails. Paired with the public transit infrastructure, cycling can be more efficient and much less expensive than driving (and parking) a car.',
             location: {
-    center: [-62.389404, -5.154276],
-    zoom: 4.5,
-    bearing: -20,
-    pitch: 41.5
+                center: [-62.389404, -5.154276],
+                zoom: 4.5,
+                bearing: -20,
+                pitch: 41.5
             },
             onChapterEnter: [
                 {
