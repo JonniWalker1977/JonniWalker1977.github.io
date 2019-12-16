@@ -4,14 +4,14 @@ var config = {
     showMarkers: false,
     theme: 'light',
     alignment: 'right',
-    title: '',
-    subtitle: '',
+    title: 'Rainforest thingymebob',
+    subtitle: 'ARGHHH THE WORLD IS ENDING',
     byline: '',
     footer: '',
     chapters: [
         {
             id: 'phl',
-            title: 'Philadelphia Bicycle Infrastructure',
+            title: 'Phila',
             image: '',
             description: 'Getting around Philadelphia on two wheels is fast, fun, and cheap. As a typical East Coast large city, the urban core is dense, so there is a lot within reach of a 15 minute ride... even mountain bike trails. Paired with the public transit infrastructure, cycling can be more efficient and much less expensive than driving (and parking) a car.',
             location: {
