@@ -4,8 +4,7 @@ var config = {
     showMarkers: false,
     theme: 'light',
     alignment: 'left',
-    title: 'Rainforest thingymebob',
-    subtitle: 'ARGHHH THE WORLD IS ENDING',
+    
     byline: '',
     footer: '',
     chapters: [
