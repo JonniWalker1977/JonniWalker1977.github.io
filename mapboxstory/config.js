@@ -52,15 +52,16 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'indego',
-            title: 'Indego Bike Share',
+            id: 'Indonesia',
+            title: 'Indonesia',
             image: '',
             description: 'Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, but has expanded service to neighboring areas to support equitable mobility options to the city\'s residents.',
             location: {
-                center: [-75.16468, 39.94503],
-                zoom: 13.15,
-                pitch: 60.00,
-                bearing: -16.80
+                bearing: 90,
+    center: [132, -2],
+    zoom: 3,
+    speed: 0.2,
+    pitch: 40
             },
             onChapterEnter: [
                 {
