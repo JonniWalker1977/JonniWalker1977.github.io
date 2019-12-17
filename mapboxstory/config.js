@@ -9,8 +9,7 @@ var config = {
     chapters: [
         {
             id: 'THE AMAZON',
-            title: 'THE AMAZON',
-      
+            title: 'THE AMAZON', 
             image: '',
             description: 'Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses with long maines and furry badgers who dont get hunted with foxes and hares against rabbits and cats',
                 location: {
