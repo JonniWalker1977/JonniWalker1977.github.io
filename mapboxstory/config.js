@@ -18,6 +18,7 @@ var config = {
                 bearing: -20,
                 pitch: 41.5
             },
+        {
             onChapterEnter: [
                 {
                     layer: 'phl-city-limits',
