@@ -37,20 +37,19 @@ var config = {
             title: 'THE CONGO',
             image: '',
             description: 'Philadelphia has XX miles of bike lanes, XX miles of which are protected. Drivers are getting more used to sharing the road, but ride defensively.',
-<html>
-<body>
-
-<object width="420" height="315"
-data="https://www.youtube.com/v/tgbNymZ7vqY">
-</object>
-
-</body>
-</html>
             location: {
                 center: [19.552837, -3.210479],
     bearing: 0,
     zoom: 4.5,
     pitch: 30.5
+                
+<object>
+
+<object width="420" height="315"
+data="https://www.youtube.com/v/tgbNymZ7vqY">
+</object>
+
+
             },
             onChapterEnter: [
                 {
