@@ -36,15 +36,13 @@ var config = {
             id: 'Congo',
             title: 'THE CONGO',
             image: '',
-            description: 'Philaun, the public transit infrastructun driving (and parking) a car.',
+            description: 'Philaun, the public transit infrastructun driving (and parking)and chea.',
             location: {
                 center: [19.552837, -3.210479],
-    bearing: 0,
-    zoom: 4.5,
-    pitch: 30.5
-
-
-            },
+                bearing: 0,
+                zoom: 4.5,
+                pitch: 30.5
+         },
             onChapterEnter: [
                 {
                     layer: 'phl-bike-network',
