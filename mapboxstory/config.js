@@ -12,8 +12,7 @@ var config = {
             id: 'THE AMAZON',
             title: 'THE AMAZON',
             image: '',
-            description: 'Getting around Philadelphia on two wheels is fast, fun, and cheap. As a typical East Coast large city, the urban core is dense, so there is a lot within reach of a 15 minute ride... even mountain bike trails. Paired with the public transit infrastructure, cycling can be more efficient and much less expensive than driving (and parking) a car. Getting around Philadelphia on two wheels is fast, fun, and cheap. As a typical East Coast large city, the urban core is dense, so there is a lot within reach of a 15 minute ride... even mountain bike trails. Paired with the public transit infrastructure, cycling can be more efficient and much less expensive than driving (and parking) a car.',
-            location: {
+            description: 'Getting around Philadelphia on two wheels is fast, fun, and chea.',
                 center: [-77.603475, -11.216189],
                 zoom: 4.5,
                 bearing: -20,
@@ -36,7 +35,7 @@ var config = {
             id: 'Congo',
             title: 'THE CONGO',
             image: '',
-            description: 'Philadelphia has XX miles of bike lanes, XX miles of which are protected. Drivers are getting more used to sharing the road, but ride defensively. Getting around Philadelphia on two wheels is fast, fun, and cheap. As a typical East Coast large city, the urban core is dense, so there is a lot within reach of a 15 minute ride... even mountain bike trails. Paired with the public transit infrastructure, cycling can be more efficient and much less expensive than driving (and parking) a car.',
+            description: 'Philaun, the public transit infrastructun driving (and parking) a car.',
             location: {
                 center: [19.552837, -3.210479],
     bearing: 0,
