@@ -33,15 +33,15 @@ var config = {
             ]
         },
         {
-            id: 'bike-lanes',
-            title: 'Bike Lanes',
+            id: 'Congo',
+            title: 'THE CONGO',
             image: '',
             description: 'Philadelphia has XX miles of bike lanes, XX miles of which are protected. Drivers are getting more used to sharing the road, but ride defensively.',
             location: {
-                center: [-75.13901, 39.97085],
-                zoom: 11.62,
-                pitch: 55.50,
-                bearing: -7.20
+                center: [19.552837, -3.210479],
+    bearing: 0,
+    zoom: 3.5,
+    pitch: 30.5
             },
             onChapterEnter: [
                 {
