@@ -2,6 +2,7 @@ var config = {
     style: 'mapbox://styles/jonniwalker/ck3u2fjg81dx01cqcrpsdc559?fresh=true',
     accessToken: 'pk.eyJ1Ijoiam9ubml3YWxrZXIiLCJhIjoiY2loeG82cWplMDA4N3cxa3MzZXU2N2JpYSJ9.H6vPKI0UKLv733mSCXh2Lw',
     showMarkers: false,
+    title: 'What if all the worlds drainforests were cleared in a day?',
     theme: 'dark',
     alignment: 'left',
     
