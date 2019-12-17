@@ -40,7 +40,7 @@ var config = {
             location: {
                 center: [19.552837, -3.210479],
     bearing: 0,
-    zoom: 3.5,
+    zoom: 3,
     pitch: 30.5
             },
             onChapterEnter: [
