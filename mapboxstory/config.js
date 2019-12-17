@@ -13,14 +13,13 @@ var config = {
             title: 'THE AMAZON',
             image: '',
             description: 'Getting around Philadelphia on two wheels is fast, fun, and chea.',
-                
-             location: {
+                location: {
                  center: [-77.603475, -11.216189],
                 zoom: 4.5,
                 bearing: -20,
                 pitch: 41.5
             },
-        {
+        
             onChapterEnter: [
                 {
                     layer: 'phl-city-limits',
@@ -32,10 +31,10 @@ var config = {
                     layer: 'phl-city-limits',
                     opacity: 0
                 }
-]
+                ]
         },
         {
-            id: 'Congo',
+            id: 'The Congo',
             title: 'THE CONGO',
             image: '',
             description: 'Philaun, the public transit infrastructun driving (and parking)and chea.',
