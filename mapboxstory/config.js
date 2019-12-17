@@ -42,12 +42,6 @@ var config = {
     bearing: 0,
     zoom: 4.5,
     pitch: 30.5
-                
-<object>
-
-<object width="420" height="315"
-data="https://www.youtube.com/v/tgbNymZ7vqY">
-</object>
 
 
             },
