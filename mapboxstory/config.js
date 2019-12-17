@@ -37,6 +37,7 @@ var config = {
             title: 'THE CONGO',
             image: '',
             description: 'Philadelphia has XX miles of bike lanes, XX miles of which are protected. Drivers are getting more used to sharing the road, but ride defensively.',
+            embed_url("https://www.youtube.com/watch?v=uV4UpCq2azs")
             location: {
                 center: [19.552837, -3.210479],
     bearing: 0,
