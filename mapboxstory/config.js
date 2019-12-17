@@ -12,9 +12,9 @@ var config = {
             id: 'THE AMAZON',
             title: 'THE AMAZON',
             image: '',
-            description: 'Getting around Philadelphia on two wheels is fast, fun, and chea.',
+            description: 'Getting around Philadelphia on two wheels is fast, fun, and chea',
                 location: {
-                 center: [-77.603475, -11.216189],
+                center: [-77.603475, -11.216189],
                 zoom: 4.5,
                 bearing: -20,
                 pitch: 41.5
@@ -37,7 +37,7 @@ var config = {
             id: 'The Congo',
             title: 'THE CONGO',
             image: '',
-            description: 'Philaun, the public transit infrastructun driving (and parking)and chea.',
+            description: 'Philaun, the public transit infrastructun driving (and parking)and chea',
             location: {
                 center: [19.552837, -3.210479],
                 bearing: 0,
