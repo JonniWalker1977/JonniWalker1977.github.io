@@ -4,7 +4,6 @@ var config = {
     showMarkers: false,
     theme: 'dark',
     alignment: 'left',
-    title: 'What if all the worlds drainforests were cleared in a day?',
     byline: '',
     footer: '',
     chapters: [
