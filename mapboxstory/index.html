@@ -48,7 +48,6 @@
  
         }
         #title {
-            <h3>''</h3>
             font-size: 25px;
         }
         .centered {
@@ -170,7 +169,7 @@ config.chapters.forEach((record, idx) => {
     var chapter = document.createElement('div');
     
     if (record.title) {
-        var title = document.createElement('h3');
+        var title = document.createElement('h1');
         title.innerText = record.title;
         chapter.appendChild(title);
     }
