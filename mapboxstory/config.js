@@ -8,7 +8,7 @@ var config = {
     footer: '',
     chapters: [
         {
-            id: 'THE AMAZON',
+            id: 'THEAMAZON',
             title: 'THE AMAZON', 
             image: '',
             description: 'Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses with long maines and furry badgers who dont get hunted with foxes and hares against rabbits and cats',
@@ -33,7 +33,7 @@ var config = {
                 ]
         },
         {
-            id: 'The Congo',
+            id: 'TheCongo',
             title: 'THE CONGO',
             image: '',
             description: 'Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
