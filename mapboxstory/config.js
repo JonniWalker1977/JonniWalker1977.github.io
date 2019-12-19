@@ -39,11 +39,11 @@ var config = {
             image: '',
             description: 'Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
             location: {
-                center: [102.996634, 11.834921],
-                duration: 6000,
-                zoom: 4.5,
+               center: [19.552837, -3.210479],
+    duration: 6000,
+                zoom: 3.5,
                 bearing: 0,
-                pitch: 30.5
+    pitch: 30.5
                   
          },
             onChapterEnter: [
