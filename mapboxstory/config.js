@@ -9,10 +9,10 @@ var config = {
     chapters: [
         {
             id: 'THEAMAZON',
-            title: 'THE AMAZON', 
-            image: '',
+            title: 'THE AMAZON',
             description: 'Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses with long maines and furry badgers who dont get hunted with foxes and hares against rabbits and cats Getting around Philadelphia on two wheels is <br/> </p> Fast, fun, and cheaters and cats and dogs and rabbits and horses with long maines and furry badgers who dont get hunted with foxes and hares against rabbits and catsGetting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses with long maines andfurry badgers who dont get hunted with foxes and hares against rabbits and catsGetting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs <br/> </p> and rabbits and horses with long maines and furry badgers who dont get hunted with foxes and hares against rabbits and catsGetting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses with long maines and furry badgers who dont get hunted with foxes and hares against rabbits and cats </br> </p> LEGEND',
-                location: {
+             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-19-at-13.png',    
+            location: {
                 center: [-77.603475, -11.216189],
                  duration: 4500,
                     zoom: 4.5,
