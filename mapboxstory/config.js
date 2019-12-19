@@ -14,7 +14,8 @@ var config = {
             description: 'Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses with long maines and furry badgers who dont get hunted with foxes and hares against rabbits and cats',
                 location: {
                 center: [-77.603475, -11.216189],
-                zoom: 4.5,
+                 duration: 6000,
+                    zoom: 4.5,
                 bearing: -20,
                 pitch: 41.5
             },
