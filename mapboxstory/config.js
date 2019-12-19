@@ -39,6 +39,7 @@ var config = {
             description: 'Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
             location: {
                 center: [102.996634, 11.834921],
+                duration: 6000,
                 zoom: 4.5,
                 bearing: 0,
                 pitch: 30.5
@@ -59,7 +60,8 @@ var config = {
             description: 'Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, but has expanded service to neighboring areas to support equitable mobility options to the city\'s residents.',
             location: {
              center: [99.398401, 17.559920],
-             zoom: 3.52,
+             duration: 6000,
+                zoom: 3.52,
   bearing: -15.2,
     pitch: 25
             },
