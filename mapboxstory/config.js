@@ -14,7 +14,7 @@ var config = {
             description: 'Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses with long maines and furry badgers who dont get hunted with foxes and hares against rabbits and cats',
                 location: {
                 center: [-77.603475, -11.216189],
-                 duration: 6000,
+                 duration: 3000,
                     zoom: 4.5,
                 bearing: -20,
                 pitch: 41.5
@@ -40,7 +40,7 @@ var config = {
             description: 'Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
             location: {
                center: [19.552837, -3.210479],
-    duration: 6000,
+    duration: 3000,
                 zoom: 4.5,
                 bearing: 0,
     pitch: 30.5
@@ -61,7 +61,7 @@ var config = {
             description: 'Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, but has expanded service to neighboring areas to support equitable mobility options to the city\'s residents.',
             location: {
              center: [99.398401, 17.559920],
-             duration: 6000,
+             duration: 3000,
                 zoom: 4.52,
   bearing: -15.2,
     pitch: 25
