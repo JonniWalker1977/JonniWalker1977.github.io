@@ -10,7 +10,7 @@ var config = {
         {
             id: 'THEAMAZON',
             title: 'THE AMAZON', 
-            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2018/01/shutterstock_118980505.jpg',
+            image: '',
             description: 'Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses with long maines and furry badgers who dont get hunted with foxes and hares against rabbits and cats',
                 location: {
                 center: [-77.603475, -11.216189],
