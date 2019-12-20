@@ -12,7 +12,7 @@ var config = {
             title: 'WHAT WOULD A MAP OF THE EARTH LOOK LIKE IF ALL THE RAINFORESTS WERE DEFORESTED?',
             description: 'Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses with long around  <br/> </p> and rabbits and horses with long maines and furry badgers who dont get hunted with foxes and hares against rabbits and catsGetting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dnd horses with long maines and furry badgers  </br> </p> </br> </p> LEGEND </p> </p>',
              image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-19-at-13.png', 
-            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/67-677892_tropical-rainforest-tree-png-transparent-png.jpg',
+    
             location: {
                 center: [-73.603475, -11.216189],
                  duration: 4500,
