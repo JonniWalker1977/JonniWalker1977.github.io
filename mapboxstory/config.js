@@ -56,16 +56,16 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'Indonesia',
-            title: 'INDONESIA',
+            id: 'IndiaSriLanka',
+            title: 'INDIA & SRI LANKA',
             image: '',
             description: 'Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, but has expanded service to neighboring areas to support equitable mobility options to the city\'s residents.',
             location: {
-             center: [99.398401, 17.559920],
+             center: [74.928940, 20.618644],
              duration: 4500,
-                zoom: 4.52,
-  bearing: -15.2,
-    pitch: 25
+                zoom: 5,
+  bearing: 39.2,
+    pitch: 2.5
             },
             onChapterEnter: [
                 {
