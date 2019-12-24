@@ -61,11 +61,11 @@ var config = {
             image: '',
             description: 'Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, but has expanded service to neighboring areas to support equitable mobility options to the city\'s residents.',
             location: {
-             center: [74.928940, 20.618644],
+             center: [76.415286, 16.999026],
              duration: 4500,
                 zoom: 4,
-  bearing: 39.2,
-    pitch: 2.5
+  bearing: 24.8,
+    pitch: 46
             },
             onChapterEnter: [
                 {
