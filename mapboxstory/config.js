@@ -58,7 +58,7 @@ var config = {
         {
             id: 'IndiaSriLanka',
             title: 'INDIA & SRI LANKA',
-            image: '',
+            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/Globe-sat.png',
             description: 'Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, but has expanded service to neighboring areas to support equitable mobility options to the city\'s residents.',
             location: {
              center: [76.415286, 16.999026],
