@@ -81,15 +81,15 @@ var config = {
             ]
         },
         {
-            id: 'belmont',
-            title: 'Belmont Plateau Trails',
+            id: 'himalaya',
+            title: 'THE HIMLAYAS',
             image: '',
             description: 'A short ride along the Schuylkill River Trail from the Art Museum, Belmont is a twisty, log-ridden rollercoaster of a trail network. It is easy to get turned around, the underbrush is at times impenetrable, and short steep sections come out of nowhere. In other words, it\'s really fun',
             location: {
-                center: [-75.20325, 39.99574],
-                zoom: 14.99,
-                pitch: 44.00,
-                bearing: -40.00
+                center: [92.838762, 23.957782],
+                zoom: 5.89,
+                pitch: 46.00,
+                bearing: 34.4
             },
             onChapterEnter: [
                 {
