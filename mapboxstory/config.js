@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/jonniwalker/ck3u2fjg81dx01cqcrpsdc559?fresh=true',
+    style: 'mapbox://styles/jonniwalker/ck4o4rlxr099r1crc2n8uui36',
     accessToken: 'pk.eyJ1Ijoiam9ubml3YWxrZXIiLCJhIjoiY2loeG82cWplMDA4N3cxa3MzZXU2N2JpYSJ9.H6vPKI0UKLv733mSCXh2Lw',
     showMarkers: false,
     theme: 'dark',
