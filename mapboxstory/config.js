@@ -24,13 +24,13 @@ var config = {
             onChapterEnter: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    opacity: 0
+                    opacity: 0.55
                 }
             ],
             onChapterExit: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    opacity: 0.5
+                    opacity: 0
                 }
                 ]
         },
@@ -50,13 +50,13 @@ var config = {
             onChapterEnter: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    opacity: 0
+                    opacity: 0.55
                 }
             ],
              onChapterExit: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    opacity: 0.5
+                    opacity: 0
                 }
                  ]
         },
