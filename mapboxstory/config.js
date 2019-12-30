@@ -43,7 +43,7 @@ var config = {
     
             location: {
                 center: [-73.603475, -11.216189],
-                 duration: 5000,
+                 duration: 4500,
                     zoom: 4.09,
                 bearing: -20,
                 pitch: 41.5
@@ -54,6 +54,8 @@ var config = {
                 {
                     layer: 'archive-6-9g1e5q',
                     opacity: 0.55
+                   
+                    
                 }
             ],
             onChapterExit: [
