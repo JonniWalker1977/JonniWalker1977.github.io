@@ -36,7 +36,7 @@ var config = {
                 ]
         },
          {
-             id: 'THEAMAZON',
+             id: 'THEAMAZONS',
             title: 'WHAT IF THE AMAZON WAS DEFORESTED IN A DAY?',
             description: 'Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.  </br> </p> </br> </p> LOCATION MAP </p> </p>',
              image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-19-at-13.png', 
