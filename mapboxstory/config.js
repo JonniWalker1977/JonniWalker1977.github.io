@@ -23,14 +23,14 @@ var config = {
         
             onChapterEnter: [
                 {
-                    layer: 'phl-city-limits',
-                    opacity: .45
+                    layer: 'archive-6-9g1e5q',
+                    opacity: 0
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'phl-city-limits',
-                    opacity: 0
+                    layer: 'archive-6-9g1e5q',
+                    opacity: 1
                 }
                 ]
         },
@@ -49,7 +49,7 @@ var config = {
          },
             onChapterEnter: [
                 {
-                    layer: 'phl-bike-network',
+                    layer: 'archive-6-9g1e5q',
                     opacity: 1
                 }
             ],
