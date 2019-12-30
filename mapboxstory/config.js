@@ -30,7 +30,7 @@ var config = {
             onChapterExit: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    opacity: 0.61
+                    opacity: 0.4
                 }
                 ]
         },
@@ -50,7 +50,7 @@ var config = {
             onChapterEnter: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    opacity: 0.61
+                    opacity: 0.4
                 }
             ],
             onChapterExit: []
