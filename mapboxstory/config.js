@@ -21,18 +21,6 @@ var config = {
                 pitch: 41.5
             },
            
-            id: 'THEAMAZON2',
-            title: 'GONE?',
-            description: 'Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.  </br> </p> </br> </p> LOCATION MAP </p> </p>',
-             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-19-at-13.png', 
-    
-            location: {
-                center: [-73.603475, -11.216189],
-                 duration: 4500,
-                    zoom: 4.09,
-                bearing: -20,
-                pitch: 41.5
-            },
         
             onChapterEnter: [
                 {
@@ -43,11 +31,12 @@ var config = {
             onChapterExit: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    opacity: 0
+                    opacity: 0.55
                 }
                 ]
         },
         {
+            
             id: 'THECONGO',
             title: 'THE CONGO',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/screencapture-studio-mapbox-styles-jonniwalker-cjyiqa8mg088j1djz31ktyqve-edit-2019-12-20-15_02_43-1.png',
@@ -69,7 +58,7 @@ var config = {
              onChapterExit: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    opacity: 0
+                    opacity: 0.55
                 }
                  ]
         },
