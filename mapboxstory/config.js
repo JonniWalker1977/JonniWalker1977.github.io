@@ -34,7 +34,7 @@ var config = {
                     layer: 'archive-6-9g1e5q',
                     
                                                   "layer-opacity-transition": {
-        duration: 3000
+        duration: 10000
       },opacity: 0.55
                     
     
@@ -60,7 +60,7 @@ var config = {
                 {
                     layer: 'archive-6-9g1e5q',
                      "layer-opacity-transition": {
-        easing: 0.2
+       
       },
                     opacity: 0.55
                    
