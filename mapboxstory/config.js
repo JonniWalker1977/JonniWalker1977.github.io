@@ -36,7 +36,7 @@ var config = {
                                                   "layer-opacity-transition": {
         duration: 3000
       },opacity: 0.55
-                    ,easing: 0.2
+                    
     
                 }
                 ]
