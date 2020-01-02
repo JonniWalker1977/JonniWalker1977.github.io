@@ -25,13 +25,18 @@ var config = {
             onChapterEnter: [
                 {
                     layer: 'archive-6-9g1e5q',
+      
                     opacity: 0
                 }
             ],
             onChapterExit: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    opacity: 0.55
+                    
+                                                  "layer-opacity-transition": {
+        duration: 1500
+      },opacity: 0.55
+    
                 }
                 ]
         },
