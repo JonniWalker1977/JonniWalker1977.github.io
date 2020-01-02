@@ -58,6 +58,9 @@ var config = {
             onChapterEnter: [
                 {
                     layer: 'archive-6-9g1e5q',
+                     "layer-opacity-transition": {
+        duration: 3000
+      },
                     opacity: 0.55
                    
                     
