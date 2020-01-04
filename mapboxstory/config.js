@@ -27,6 +27,18 @@ var config = {
                     layer: 'archive-6-9g1e5q',
       
                     opacity: 0
+                },
+          
+              {
+                    layer: 'archive-6-9g1e5q',
+      
+                    opacity: 0.2
+                   },
+          
+              {
+                    layer: 'archive-6-9g1e5q',
+      
+                    opacity: 0.3
                 }
             ],
             onChapterExit: [
