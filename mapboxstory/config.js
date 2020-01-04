@@ -26,7 +26,7 @@ var config = {
                 {
                     layer: 'archive-6-9g1e5q',
       
-                    opacity: 0
+                    opacity: 0, 0.1, 0.2, 0.3, 0.4
                 }
             ],
             onChapterExit: [
