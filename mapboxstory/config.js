@@ -8,8 +8,119 @@ var config = {
     footer: '',
     chapters: [
         {
+             id: 'THEAMAZON',
+            title: 'WHAT WOULD A MAP OF THE EARTH LOOK LIKE IF ALL THE RAINFORESTS WERE DEFORESTED?',
+            description: 'Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.  </br> </p> </br> </p> LOCATION MAP </p> </p>',
+             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-19-at-13.png', 
+    
+            location: {
+                center: [-73.603475, -11.216189],
+                 duration: 4500,
+                    zoom: 4.09,
+                bearing: -20,
+                pitch: 41.5
+            },
+           
+        
+            onChapterEnter: [
+                {
+                    layer: 'archive-6-9g1e5q',
+      
+                    opacity: 0
+                },
           
+              {
+                    layer: '',
+      
+                    opacity: 0.2
+                   },
+          
+              {
+                    layer: '',
+      
+                    opacity: 0.3
+                }
+            ],
+            onChapterExit: [
+                {
+                    layer: 'archive-6-9g1e5q',
+                    
+                                                  "fill-opacity-transition": {
+        duration: 0.1
+      },opacity: 0
+                    
+    
+                }
+                ]
+        },
+         {
+             id: 'THEAMAZONS',
+            title: 'WHAT IF THE AMAZON WAS DEFORESTED IN A DAY?',
+            description: 'Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.  </br> </p> </br> </p> LOCATION MAP </p> </p>',
+             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-19-at-13.png', 
+    
+            location: {
+                center: [-73.603475, -11.216189],
+                 duration: 4500,
+                    zoom: 4.09,
+                bearing: -20,
+                pitch: 41.5
+            },
+           
+        
+            onChapterEnter: [
+                {
+                    layer: 'archive-6-9g1e5q',
+                    
        
+     
+                    opacity: 0.1
+                   
+                    
+                }
+            ],
+            onChapterExit: [
+                {
+                    layer: 'archive-6-9g1e5q',
+                    opacity: 0.2
+                }
+                ]
+        },
+        
+             {
+             id: 'THEAMAZONS1',
+            title: 'With each scroll you are.....',
+            description: 'Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.  </br> </p> </br> </p> LOCATION MAP </p> </p>',
+             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-19-at-13.png', 
+    
+            location: {
+                center: [-73.603475, -11.216189],
+                 duration: 4500,
+                    zoom: 4.09,
+                bearing: -20,
+                pitch: 41.5
+            },
+           
+        
+            onChapterEnter: [
+                {
+                    layer: 'archive-6-9g1e5q',
+                    
+       
+     
+                    opacity: 0.2
+                   
+                    
+                }
+            ],
+            onChapterExit: [
+                {
+                    layer: 'archive-6-9g1e5q',
+                    opacity: 0.3
+               }
+                ]
+        },
+        {
              id: 'THEAMAZONS2',
             title: 'With each scroll you are.....',
             description: 'Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.  </br> </p> </br> </p> LOCATION MAP </p> </p>',
@@ -30,7 +141,7 @@ var config = {
                     
        
      
-                    opacity: 0
+                    opacity: 0.3
                    
                     
                 }
@@ -38,7 +149,7 @@ var config = {
             onChapterExit: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    opacity: 0.55
+                    opacity: 0.4
                }
                 ]
         },
@@ -74,33 +185,6 @@ var config = {
                     opacity: 0.55
                }
                 ]
-        },
-        {
-            
-            id: 'THECONGO',
-            title: 'THE CONGO',
-            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/screencapture-studio-mapbox-styles-jonniwalker-cjyiqa8mg088j1djz31ktyqve-edit-2019-12-20-15_02_43-1.png',
-            description: 'Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
-            location: {
-               center: [19.552837, -3.210479],
-    duration: 4500,
-                zoom: 4.5,
-                bearing: 0,
-    pitch: 30.5
-                  
-         },
-            onChapterEnter: [
-                {
-                    layer: 'archive-6-9g1e5q',
-                    opacity: 0
-                }
-            ],
-             onChapterExit: [
-                {
-                    layer: 'archive-6-9g1e5q',
-                    opacity: 0.55
-                }
-                 ]
         },
         {
              id: 'THECONGOS',
