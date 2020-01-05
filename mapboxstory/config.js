@@ -28,15 +28,7 @@ var config = {
       
                     opacity: 0
                 },
-          
-              {
-                     'fill-opacity': 0.55,
-            'fill-opacity-transition': { 
-                duration: 10000, 
-                delay: 0
-          
-                    
-    
+
                 }
                 ]
         },
@@ -61,15 +53,13 @@ var config = {
                     
        
      
-                    opacity: 0.1
+                     
+                     'fill-opacity': 0,
+            'fill-opacity-transition': { 
+                duration: 10000, 
+                delay: 0
                    
-                    
-                }
-            ],
-            onChapterExit: [
-                {
-                    layer: 'archive-6-9g1e5q',
-                    opacity: 0.2
+           
                 }
                 ]
         },
