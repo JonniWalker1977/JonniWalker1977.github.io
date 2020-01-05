@@ -63,7 +63,7 @@ var config = {
                 {
                     layer: 'archive-6-9g1e5q',
                     
-                    'paint': {
+                    paintProps: {
              
             'fill-opacity': 0.1,
             'fill-opacity-transition': { 
@@ -75,15 +75,9 @@ var config = {
      
                     
                    
-                    
-                }
-            ],
-            onChapterExit: [
-                {
-                    layer: 'archive-6-9g1e5q',
-                    opacity: 0.55
-                }
-                ]
+            }       
+            }
+                        ]
         },
         {
             
