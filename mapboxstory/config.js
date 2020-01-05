@@ -66,9 +66,11 @@ var config = {
                 duration: 9000, 
                 delay: 0
             }
+                    }
                 ]
         },
-        {
+                    {
+                    
              id: 'THEAMAZONS1',
             title: 'With each scroll you are.....',
             description: 'Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.  </br> </p> </br> </p> LOCATION MAP </p> </p>',
