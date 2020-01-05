@@ -63,8 +63,8 @@ var config = {
                     
        
      
-                          'fill-opacity': 0,
-            'fill-opacity-transition': { 
+                          'layer-opacity': 0,
+            'layer-opacity-transition': { 
                 duration: 10000, 
                 delay: 0
                 },
