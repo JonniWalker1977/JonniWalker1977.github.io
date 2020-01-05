@@ -63,7 +63,7 @@ var config = {
                 {
                     layer: 'archive-6-9g1e5q',
                     
-                    paintProps: {
+                    fill: {
              
             'fill-opacity': 0.1,
             'fill-opacity-transition': { 
