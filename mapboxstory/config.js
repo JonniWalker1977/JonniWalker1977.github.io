@@ -63,19 +63,12 @@ var config = {
                     
        
      
-                          'fill-opacity': 0.1,
+                          'fill-opacity': 0,
             'fill-opacity-transition': { 
                 duration: 10000, 
                 delay: 0
                 },
                    
-                    
-                }
-            ],
-            onChapterExit: [
-                {
-                    layer: 'archive-6-9g1e5q',
-                    opacity: 0.55
                 }
                 ]
         },
