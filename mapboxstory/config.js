@@ -30,7 +30,7 @@ var config = {
                 },
           
               { duration: 10000,
-               dealy: 0
+               delay: 0
               
                
  
