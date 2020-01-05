@@ -8,96 +8,8 @@ var config = {
     footer: '',
     chapters: [
         {
-             id: 'THEAMAZON',
-            title: 'WHAT WOULD A MAP OF THE EARTH LOOK LIKE IF ALL THE RAINFORESTS WERE DEFORESTED?',
-            description: 'Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.  </br> </p> </br> </p> LOCATION MAP </p> </p>',
-             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-19-at-13.png', 
-    
-            location: {
-                center: [-73.603475, -11.216189],
-                 duration: 4500,
-                    zoom: 4.09,
-                bearing: -20,
-                pitch: 41.5
-            },
-           
-        
-            onChapterEnter: [
-                {
-                    layer: 'archive-6-9g1e5q',
-      
-                    opacity: 0
-                },
-
-                }
-                ]
-        },
-         {
-             id: 'THEAMAZONS',
-            title: 'WHAT IF THE AMAZON WAS DEFORESTED IN A DAY?',
-            description: 'Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.  </br> </p> </br> </p> LOCATION MAP </p> </p>',
-             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-19-at-13.png', 
-    
-            location: {
-                center: [-73.603475, -11.216189],
-                 duration: 4500,
-                    zoom: 4.09,
-                bearing: -20,
-                pitch: 41.5
-            },
-           
-        
-            onChapterEnter: [
-                {
-                    layer: 'archive-6-9g1e5q',
-                    
+          
        
-     
-                     
-                     'fill-opacity': 0,
-            'fill-opacity-transition': { 
-                duration: 10000, 
-                delay: 0
-                   
-           
-                }
-                ]
-        },
-        
-             {
-             id: 'THEAMAZONS1',
-            title: 'With each scroll you are.....',
-            description: 'Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.  </br> </p> </br> </p> LOCATION MAP </p> </p>',
-             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-19-at-13.png', 
-    
-            location: {
-                center: [-73.603475, -11.216189],
-                 duration: 4500,
-                    zoom: 4.09,
-                bearing: -20,
-                pitch: 41.5
-            },
-           
-        
-            onChapterEnter: [
-                {
-                    layer: 'archive-6-9g1e5q',
-                    
-       
-     
-                    opacity: 0.2
-                   
-                    
-                }
-            ],
-            onChapterExit: [
-                {
-                    layer: 'archive-6-9g1e5q',
-                    opacity: 0.3
-               }
-                ]
-        },
-        {
              id: 'THEAMAZONS2',
             title: 'With each scroll you are.....',
             description: 'Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.  </br> </p> </br> </p> LOCATION MAP </p> </p>',
@@ -118,7 +30,7 @@ var config = {
                     
        
      
-                    opacity: 0.3
+                    opacity: 0
                    
                     
                 }
@@ -126,7 +38,7 @@ var config = {
             onChapterExit: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    opacity: 0.4
+                    opacity: 0.55
                }
                 ]
         },
