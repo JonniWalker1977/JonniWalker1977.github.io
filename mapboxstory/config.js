@@ -29,16 +29,11 @@ var config = {
                     opacity: 0
                 },
           
-              {
-                    layer: '',
-      
-                    opacity: 0.2
-                   },
-          
-              {
-                    layer: '',
-      
-                    opacity: 0.3
+              { duration: 10000,
+               dealy: 0
+              
+               
+ 
                 }
             ],
             onChapterExit: [
