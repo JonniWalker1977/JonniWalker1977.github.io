@@ -27,18 +27,7 @@ var config = {
                     layer: 'archive-6-9g1e5q',
       
                     opacity: 0
-                },
-          
-              {
-                    layer: '',
-      
-                    opacity: 0.2
-                   },
-          
-              {
-                    layer: '',
-      
-                    opacity: 0.3
+                   
                 }
             ],
             onChapterExit: [
@@ -71,10 +60,11 @@ var config = {
             onChapterEnter: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    
+                     duration: 10000, 
+                    delay: 0
        
      
-                    opacity: 0.55
+                    
                    
                     
                 }
