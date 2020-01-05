@@ -60,12 +60,10 @@ var config = {
             onChapterEnter: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    
-       
-     
-                          'layer-opacity': 0,
-            'layer-opacity-transition': { 
-                duration: 10000, 
+   paint:{
+            'fill-opacity': 0,
+            'fill-opacity-transition': { 
+                duration: 9000, 
                 delay: 0
                 },
                    
