@@ -40,9 +40,9 @@ var config = {
                 {
                     layer: 'archive-6-9g1e5q',
                     
-                                                  "fill-opacity-transition": {
+                    fill: {
         duration: 0.1
-      },opacity: 0
+      },opacity: 0.55
                     
     
                 }
@@ -69,7 +69,7 @@ var config = {
                     
        
      "fill-opacity-transition": {
-        duration: 0.1
+        duration: 10000
       },opacity: 0
                     
                    
