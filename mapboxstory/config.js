@@ -65,11 +65,13 @@ var config = {
         
             onChapterEnter: [
                 {
-                    layer: 'archive-6-9g1e5q',
-                    opacity: {
+                                   
+                    fill: {layer: 'archive-6-9g1e5q'},
   duration: 3000,
   delay: 0
-}
+                    }
+
+
          
                 }
             ],
