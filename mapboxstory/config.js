@@ -29,8 +29,7 @@ var config = {
                     opacity: 0
                 },
           
-              { duration: 10000,
-               delay: 0
+             
               
                
  
@@ -40,9 +39,8 @@ var config = {
                 {
                     layer: 'archive-6-9g1e5q',
                     
-                    fill: {
-        duration: 0.1
-      },opacity: 0.55
+            
+      opacity: 0.55
                     
     
                 }
