@@ -6,6 +6,7 @@ var config = {
     alignment: 'left',
     byline: '',
     footer: '',
+    animation: 'fadein',
     chapters: [
         {
              id: 'THEAMAZON',
