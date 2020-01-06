@@ -27,7 +27,6 @@ var config = {
                     layer: 'archive-6-9g1e5q',
       
                     opacity: 0
-                   
                 }
             ],
             onChapterExit: [
@@ -54,33 +53,26 @@ var config = {
                     zoom: 4.09,
                 bearing: -20,
                 pitch: 41.5
-                
-      
             },
            
         
             onChapterEnter: [
                 {
                     layer: 'archive-6-9g1e5q',
+                     "fill-opacity-transition": { duration: 0.1
+       
+      },
                     opacity: 0.55
-                        }
-            ],
+                   
                     
-               onChapterExit: [
+                }
+            ],
+            onChapterExit: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    
-       
-      opacity: 0.55
-            
-                    
-       
-     
-                    
-                   
-            }       
-            }
-                        ]
+                    opacity: 0.55
+                }
+                ]
         },
         {
             
