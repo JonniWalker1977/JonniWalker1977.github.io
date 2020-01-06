@@ -185,12 +185,12 @@ var config = {
             ]
         },
         {
-            id: 'wiss',
-            title: 'Wissahickon Park Trails',
+            id: 'Chapt',
+            title: 'Blah blah blah',
             image: '',
             description: 'This steep, rocky gorge can be surprisingly technical. Follow the orange and yellow trails to repeatedly climb and descend through the schist hillsides (careful of the cliffs), or stick to the gravel Forbidden Drive for a relaxing ride along the creek. You\'ll forget you\'re in a city.',
             location: {
-                center: [-75.21223, 40.05028],
+                center: [],
                 zoom: 13.08,
                 pitch: 47.50,
                 bearing: 32.80
@@ -209,12 +209,12 @@ var config = {
             ]
         },
         {
-            id: 'pennypack',
-            title: 'Pennypack Park Trails',
+            id: 'chapter',
+            title: 'blah blah blah',
             image: '',
             description: 'Pennypack is a great introduction trail system. Not too steep and not too technical, the beautiful wooded park also provides a great escape from urban life. The south side trails are originally bridle trails, so be nice to equestrians and dismount when you approach them.',
             location: {
-                center: [-75.05685, 40.06839],
+                center: [],
                 zoom: 13.73,
                 pitch: 43.50,
                 bearing: 96.80
