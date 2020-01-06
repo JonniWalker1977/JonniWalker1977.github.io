@@ -59,13 +59,9 @@ var config = {
         
             onChapterEnter: [
                 {
-                      setPaintProp:('archive-6-9g1e5q', 'fill-opacity', 0.55);
-        }, 
-        3000
-    );
-             
-                   
-                    
+                      layer:'archive-6-9g1e5q', 
+                    opacity', 0.55
+    
                 }
             ],
             onChapterExit: [
