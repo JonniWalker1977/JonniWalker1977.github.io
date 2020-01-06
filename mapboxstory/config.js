@@ -68,7 +68,7 @@ var config = {
        
      "fill-opacity-transition": {
         duration: 10000
-      },opacity: 0
+      },opacity: 0.55
                     
                    
                     
