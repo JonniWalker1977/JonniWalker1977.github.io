@@ -53,10 +53,14 @@ var config = {
             onChapterEnter: [
                 {
                     layer: 'archive-6-9g1e5q',
+                    "transition": {
+  "duration": 3000,
+  "delay": 0
+}
                     
        
      
-                    opacity: 0.55
+                    
                    
                     
                 }
