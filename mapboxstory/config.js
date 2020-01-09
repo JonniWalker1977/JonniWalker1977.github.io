@@ -10,7 +10,7 @@ var config = {
     chapters: [
         {
              id: 'THEAMAZON',
-            title: 'WHAT WOULD A MAP OF THE EARTH LOOK LIKE IF ALL THE RAINFORESTS WERE DEFORESTED?',
+            title: 'WHAT WOULD THE EARTH LOOK LIKE IF ALL THE SUB-TROPICAL RAINFORESTS WERE DEFORESTED?',
             description: 'Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.  </br> </p> </br> </p> SCROLL DOWN </p> WITH EACH SCROLL YOU ARE TAKING AN ACTION</p>',
              image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Scroll-White-1.gif', 
     
