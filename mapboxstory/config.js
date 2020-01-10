@@ -28,8 +28,8 @@ var config = {
                 {
       
                     layer: 'archive-6-9g1e5q',
-                    opacity: 0.55,
-                    duration: 5000
+                    opacity: 0,
+                   
                
                 }
             ],
@@ -64,11 +64,10 @@ var config = {
                 {
                     layer: 'archive-6-9g1e5q',
                     
-        "transition": {
-        "duration": 5000, 
-        "delay": 0  
-      },
-                    opacity: 0.55
+        opacity: 0.25,
+                    duration: 5000
+      
+                    
                    
                     
                 }
