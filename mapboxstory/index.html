@@ -184,18 +184,18 @@ config.chapters.forEach((record, idx) => {
         var title = document.createElement('h1');
         title.innerText = record.title;
         chapter.appendChild(title);
-    }
-
-    if (record.image) {
-        var image = new Image();
-        image.src = record.image;
-        chapter.appendChild(image);
+   
     }
 
     if (record.description) {
         var story = document.createElement('p');
         story.innerHTML = record.description;
         chapter.appendChild(story);
+    }
+      if (record.image) {
+        var image = new Image();
+        image.src = record.image;
+        chapter.appendChild(image);
     }
 
     container.setAttribute('id', record.id);
