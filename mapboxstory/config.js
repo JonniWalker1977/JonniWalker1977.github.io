@@ -64,7 +64,7 @@ var config = {
                     layer: 'archive-6-9g1e5q',
                     
         opacity: 0.66,
-                    duration: 4000
+                    duration: 5500
       
                     
                    
@@ -120,8 +120,10 @@ var config = {
          },
             onChapterEnter: [
                 {
-                    layer: 'archive-6-9g1e5q',
-                    opacity: 0.55
+                             layer: 'archive-6-9g1e5q',
+                    
+        opacity: 0.66,
+                    duration: 5500
                 }
             ],
              onChapterExit: [
