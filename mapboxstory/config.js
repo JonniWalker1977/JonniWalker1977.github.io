@@ -85,7 +85,7 @@ var config = {
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/screencapture-studio-mapbox-styles-jonniwalker-cjyiqa8mg088j1djz31ktyqve-edit-2019-12-20-15_02_43-1.png',
             description: 'Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
             location: {
-               center: [19.133644, -3.210479],
+               center: [18.133644, -3.210479],
     duration: 4500,
                 zoom: 4.5,
                 bearing: 0,
