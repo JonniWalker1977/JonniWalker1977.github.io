@@ -200,9 +200,9 @@ config.chapters.forEach((record, idx) => {
           }
     
       if (record.image) {
-        var image2 = new Image2();
+        var image2 = new Image();
         image.src = record.image2;
-        chapter.appendChild(image);
+        chapter.appendChild(image2);
     }
 
     container.setAttribute('id', record.id);
