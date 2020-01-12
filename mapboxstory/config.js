@@ -9,7 +9,7 @@ var config = {
     chapters: [
         {
              id: 'THEAMAZON',
-            title: 'DYSTOPIAN DEFORESTION:',
+            title: 'DYSTOPIAN DEFORESTION: DO WE REALLY WANT TO THIS HAPPEN?',
             description: 'What would a map of the Earth look like if all the sub-tropical rainforests were deforested in a day? <br/> </p> </p> Making up one thirf of around Philadelphia on two horse around the field. This not going to work is it? Footbal pitch idea?  </br> </p> </br> <p><strong> SCROLL DOWN <p><strong> With each scroll YOU </br> <p> are taking an ACTION</p>',
              image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Scroll-White-1.gif', 
             image2: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-19-at-13.png', 
