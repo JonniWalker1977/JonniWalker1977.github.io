@@ -205,10 +205,16 @@ config.chapters.forEach((record, idx) => {
         story.innerHTML = record.description;
         chapter.appendChild(story);
     }
-      if (record.image) {
+     if (record.image) {
         var image = new Image();
         image.src = record.image;
-          image.src = record.image2;
+        chapter.appendChild(image);
+          }
+    
+  
+      if (record.image) {
+        var image = new Image();
+        image.src = record.image2;
         chapter.appendChild(image);
           }
     
