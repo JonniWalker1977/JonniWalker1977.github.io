@@ -5,7 +5,7 @@ var config = {
     theme: 'dark',
     alignment: 'left',
  
-    byline: '',
+    byline: 'DYSTOPIAN DEFORESTATION',
     footer: '',
     animation: 'fadein',
     chapters: [
