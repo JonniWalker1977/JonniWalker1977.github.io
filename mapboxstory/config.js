@@ -4,6 +4,7 @@ var config = {
     showMarkers: false,
     theme: 'dark',
     alignment: 'left',
+    title: 'DYSTOPIAN DEFORESTATION',
     byline: '',
     footer: '',
     animation: 'fadein',
