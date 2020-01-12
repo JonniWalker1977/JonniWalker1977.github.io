@@ -10,8 +10,8 @@ var config = {
     chapters: [
         {
              id: 'THEAMAZON',
-            title: 'DYSTOPIAN DEFORESTION',
-            description: 'Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.  </br> </p> </br> <p><strong> SCROLL DOWN <p><strong> With each scroll YOU are taking an ACTION</p>',
+            title: 'DYSTOPIAN DEFORESTION:',
+            description: 'What would a map of the Earth look like of all the sub-tropical rainforests were deforested in a day? <br/> </p> </p> Making up one thirf of around Philadelphia on two horse around the field.  </br> </p> </br> <p><strong> SCROLL DOWN <p><strong> With each scroll YOU are taking an ACTION</p>',
              image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Scroll-White-1.gif', 
             image2: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-19-at-13.png', 
     
