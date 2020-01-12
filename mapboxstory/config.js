@@ -4,7 +4,7 @@ var config = {
     showMarkers: false,
     theme: 'dark',
     alignment: 'left',
-    title: '',
+ 
     byline: '',
     footer: '',
     animation: 'fadein',
