@@ -210,6 +210,12 @@ config.chapters.forEach((record, idx) => {
         image.src = record.image;
         chapter.appendChild(image);
           }
+     }
+      if (record.image) {
+        var image = new Image(2);
+        image.src = record.image;
+        chapter.appendChild(image);
+          }
     
 
 
