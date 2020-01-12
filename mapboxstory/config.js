@@ -4,8 +4,8 @@ var config = {
     showMarkers: false,
     theme: 'dark',
     alignment: 'left',
-    title: 'DYSTOPIAN </p> DEFORESTATION',
-    byline: 'What if all the etc',
+    title: '',
+    byline: '',
     footer: '',
     animation: 'fadein',
     chapters: [
