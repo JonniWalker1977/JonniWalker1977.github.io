@@ -11,7 +11,7 @@ var config = {
              id: 'THEAMAZON',
             title: 'DYSTOPIAN DEFORESTATION',
             description: ' ___________________________________ What would a map of the Earth look like if all the sub-tropical rainforests were deforested in a day? <br/> </p> </p> Making up one thirf of around Philadelphia on two horse around the field. This not going to work is it? Footbal pitch idea? <br/> </p> Making up one thirf of around Philadelphia on two horse around the field. This not going to work is it? Footbal pitch idea? </br> ________________________  <p> SCROLL DOWN </br> <img src="https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Scroll-White-1.gif"> <p><strong> With each scroll YOU are taking an ACTION</p> Those ACTIONS ARE important.',
-            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Globe.gif', 
+            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/earth-spinning-rotating-animation-24.gif', 
             
     
             location: {
