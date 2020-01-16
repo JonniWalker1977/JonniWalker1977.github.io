@@ -4,13 +4,13 @@ var config = {
     showMarkers: false,
     theme: 'dark',
     alignment: 'left',
-    title: 'DYSTOPIAN DEFORESTATION',
+    
     footer: '',
     animation: 'fadein',
     chapters: [
         {
              id: 'THEAMAZON',
-            title: '',
+            title: 'DYSTOPIAN DEFORESTATION',
             description: 'What would a map of the Earth look like if all the sub-tropical rainforests were deforested in a day? <br/> </p> </p> Making up one thirf of around Philadelphia on two horse around the field. This not going to work is it? Footbal pitch idea? <br/> </p> Making up one thirf of around Philadelphia on two horse around the field. This not going to work is it? Footbal pitch idea? </br> <p><strong> SCROLL DOWN </br> </p> <img src="https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Scroll-White-1.gif"> <p><strong> With each scroll YOU are taking an ACTION</p> Those ACTIONS ARE important.',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-19-at-13.png', 
             
