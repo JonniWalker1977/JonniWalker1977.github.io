@@ -10,7 +10,7 @@ var config = {
         {
              id: 'THEAMAZON',
             title: 'DYSTOPIAN DEFORESTATION',
-            description: ' ___________________________________ What would a map of the Earth look like if all the sub-tropical rainforests were deforested in a day? <br/> </p> </p> Making up one thirf of around Philadelphia on two horse around the field. This not going to work is it? Footbal pitch idea? <br/> </p> Making up one thirf of around Philadelphia on two horse around the field. This not going to work is it? Footbal pitch idea? </br> <p> SCROLL DOWN </br> <img src="https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Scroll-White-1.gif"> <p><strong> With each scroll YOU are taking an ACTION</p> Those ACTIONS ARE important.',
+            description: ' ––––––––––––––––––––––––––––––––––– What would a map of the Earth look like if all the sub-tropical rainforests were deforested in a day? <br/> </p> </p> Making up one thirf of around Philadelphia on two horse around the field. This not going to work is it? Footbal pitch idea? <br/> </p> Making up one thirf of around Philadelphia on two horse around the field. This not going to work is it? Footbal pitch idea? </br> <p> SCROLL DOWN </br> <img src="https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Scroll-White-1.gif"> <p><strong> With each scroll YOU are taking an ACTION</p> Those ACTIONS ARE important.',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-19-at-13.png', 
             
     
@@ -46,7 +46,7 @@ var config = {
          {
              id: 'THEAMAZONS',
             title: 'WHAT IF THE AMAZON WAS DEFORESTED IN A DAY?',
-            description: '___________________________________ Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.  </br> </p> </br> </p> LOCATION MAP </p> </p>',
+            description: '––––––––––––––––––––––––––––––––––– Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.  </br> </p> </br> </p> LOCATION MAP </p> </p>',
              image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-11-at-18-2.png', 
             
     
@@ -83,7 +83,7 @@ var config = {
             id: 'THECONGO',
             title: 'THE CONGO',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-13-at-10-1-1.png',
-            description: '___________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya  </br> </p> </br> </p> LOCATION MAP </p> </p>',
+            description: '––––––––––––––––––––––––––––––––––– Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya  </br> </p> </br> </p> LOCATION MAP </p> </p>',
             location: {
                center: [17.633644, -3.210479],
     duration: 4500,
@@ -109,7 +109,7 @@ var config = {
              id: 'THECONGOS',
             title: 'WHAT IF THE CONGO WAS DEFORESTED IN A DAY?',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/screencapture-studio-mapbox-styles-jonniwalker-cjyiqa8mg088j1djz31ktyqve-edit-2019-12-20-15_02_43-1.png',
-            description: '___________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
+            description: '––––––––––––––––––––––––––––––––––– Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
             location: {
                center: [17.633644, -3.210479],
     duration: 4500,
@@ -137,7 +137,7 @@ var config = {
             id: 'IndiaSriLanka',
             title: 'INDIA & SRI LANKA',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/Globe-sat-1.png',
-            description: '___________________________________ Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, but has expanded service to neighboring areas to support equitable mobility options to the city\'s residents. </br> </p> </br> </p> LOCATION MAP </p> </p>',
+            description: '––––––––––––––––––––––––––––––––––– Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, but has expanded service to neighboring areas to support equitable mobility options to the city\'s residents. </br> </p> </br> </p> LOCATION MAP </p> </p>',
             location: {
              center: [76.415286, 16.999026],
              duration: 4500,
@@ -162,7 +162,7 @@ var config = {
             id: 'thehimalayas',
             title: 'THE HIMLAYAS',
             image: '',
-            description: '___________________________________ A short ride along the Schuylkill River Trail from the Art Museum, Belmont is a twisty, log-ridden rollercoaster of a trail network. It is easy to get turned around, the underbrush is at times impenetrable, and short steep sections come out of nowhere. In other words, it\'s really fun',
+            description: '––––––––––––––––––––––––––––––––––– A short ride along the Schuylkill River Trail from the Art Museum, Belmont is a twisty, log-ridden rollercoaster of a trail network. It is easy to get turned around, the underbrush is at times impenetrable, and short steep sections come out of nowhere. In other words, it\'s really fun',
             location: {
                 center: [92.838762, 23.957782],
                 duration: 4500,
