@@ -10,7 +10,7 @@ var config = {
         {
              id: 'THEAMAZON',
             title: 'A Dystopian Vision of Deforestation',
-            description: ' ___________________________________ <br/> CREATED BY JONNI WALKER <br/> What would a map of the Earth look like if all the sub-tropical rainforests were deforested in a day? <br/> </p> </p> Making up one thirf of around Philadelphia on two horse around the field. This not going to work is it? Footbal pitch idea? <br/> </p> Making up one thirf of around Philadelphia on two horse around the field. This not going to work is it? Footbal pitch idea? </br> </p> SCROLL DOWN </br> <img src="https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Scroll-White-1.gif"> </br> With each scroll YOU are taking an </br> ACTION and those actions are important.',
+            description: ' ___________________________________ <br/> CREATED BY JONNI WALKER <br/> </p> What would a map of the Earth look like if all the sub-tropical rainforests were deforested in a day? <br/> </p> </p> Making up one thirf of around Philadelphia on two horse around the field. This not going to work is it? Footbal pitch idea? <br/> </p> Making up one thirf of around Philadelphia on two horse around the field. This not going to work is it? Footbal pitch idea? </br> </p> SCROLL DOWN </br> <img src="https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Scroll-White-1.gif"> </br> With each scroll YOU are taking an </br> ACTION and those actions are important.',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-19-at-13.png', 
             
     
