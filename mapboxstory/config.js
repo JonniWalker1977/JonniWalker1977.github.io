@@ -10,7 +10,7 @@ var config = {
         {
              id: 'THEAMAZON',
             title: 'A Dystopian Vision of Deforestation',
-            description: ' ___________________________________ <br/> BY JONNI WALKER | JANUARY, 2020 <br/> </p> What would a map of the Earth look like if all the sub-tropical rainforests were deforested in a day? <br/> </p> </p> Making up one thirf of around Philadelphia on two horse around the field. This not going to work is it? Footbal pitch idea? <br/> </p> Making up one thirf of around Philadelphia on two horse around the field. This not going to work is it? Footbal pitch idea? <br/> </p> <img src=""><img src=""><img src=""> <br/> </p> With each scroll YOU are taking an </br> ACTION and those actions are important.</p> SCROLL DOWN </br>',
+            description: ' ___________________________________ <br/> BY JONNI WALKER | JANUARY, 2020 <br/> </p> What would a map of the Earth look like if all the sub-tropical rainforests were deforested in a day? <br/> </p> </p> Making up one thirf of around Philadelphia on two horse around the field. This not going to work is it? Footbal pitch idea? <br/> </p> Making up one thirf of around Philadelphia on two horse around the field. This not going to work is it? Footbal pitch idea? <br/> </p> <img src="https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/world_bluemarble-1-1.png"><img src=""><img src=""> <br/> </p> With each scroll YOU are taking an </br> ACTION and those actions are important.</p> SCROLL DOWN </br>',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Scroll-White-1.gif', 
             
     
