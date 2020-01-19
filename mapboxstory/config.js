@@ -10,7 +10,7 @@ var config = {
         {
              id: 'THEAMAZON',
             title: 'A Dystopian Future of Deforestation',
-            description: ' ___________________________________ <br/> BY JONNI WALKER | JANUARY, 2020 <br/> </p> What would a map of the Earth look like if all the sub-tropical rainforests were deforested in a day? <br/></p> <img src="https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/world.200409.3x5400x2700-1.png" style=height:105px;width:210px> Making up one thirf of around Philadelphia on two horse around the field. <br/> </p>SCROLL DOWN<br/></p><img src="https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Scroll-White-1.gif"><br/> Making up one thirf of around Philadelphia on two horse around the field. This not going to work is it? Footbal pitch idea? <br/> </p> <img src=""><img src=""><img src=""> </p> </p>  </br>',
+            description: ' ___________________________________ <br/> BY JONNI WALKER | JANUARY, 2020 <br/> </p> What would a map of the Earth look like if all the sub-tropical rainforests were deforested in a day? <br/></p> <img src="https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/world.200409.3x5400x2700-1.png" style=height:105px;width:210px> Making up one thirf of around Philadelphia on two horse around the field and with that the bilbo went to the woods. <br/> </p>SCROLL DOWN<br/></p><img src="https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Scroll-White-1.gif"><br/>  <br/> </p> <img src=""><img src=""><img src=""> </p> </p>  </br>',
             image: '', 
             
     
