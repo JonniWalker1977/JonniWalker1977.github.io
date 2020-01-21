@@ -134,8 +134,8 @@ var config = {
                  ]
         },
         {
-            id: 'IndiaSriLanka',
-            title: 'India & Sri Lanka',
+            id: 'Indo',
+            title: 'Indomalayan Rainforest Realm',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/Globe-sat-1.png',
             description: '___________________________________ Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, but has expanded service to neighboring areas to support equitable mobility options to the city\'s residents. </br> </p> </br> </p> LOCATION MAP </p> </p>',
             location: {
@@ -147,16 +147,45 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'indego-stations',
-                    opacity: 0.8
+                    layer: 'archive-6-9g1e5q',
+                    opacity: 0
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'indego-stations',
-                    opacity: 0
+                    layer: 'archive-6-9g1e5q',
+                    opacity: 0.55
                 }
             ]
+        },
+        
+             {
+             id: 'Indos',
+            title: 'What if this area was Deforested in a Day?',
+            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/screencapture-studio-mapbox-styles-jonniwalker-cjyiqa8mg088j1djz31ktyqve-edit-2019-12-20-15_02_43-1.png',
+            description: '___________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
+            location: {
+        center: [109.384077, 5.149505],
+             duration: 4500,
+                zoom: 4.02,
+  bearing: -54.40,
+    pitch: 0
+                  
+         },
+            onChapterEnter: [
+                {
+                             layer: 'archive-6-9g1e5q',
+                    
+        opacity: 0.66,
+                    duration: 4500
+                }
+            ],
+             onChapterExit: [
+                {
+                    layer: 'archive-6-9g1e5q',
+                    opacity: 0.55
+                }
+                 ]
         },
         {
             id: 'thehimalayas',
