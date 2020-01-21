@@ -193,11 +193,11 @@ var config = {
             image: '',
             description: '___________________________________ A short ride along the Schuylkill River Trail from the Art Museum, Belmont is a twisty, log-ridden rollercoaster of a trail network. It is easy to get turned around, the underbrush is at times impenetrable, and short steep sections come out of nowhere. In other words, it\'s really fun',
             location: {
-                center: [147.753078, -14.298413],
+                center: [142.039586, -7.540582],
                 duration: 4500,
-                zoom: 4.2,
+                zoom: 5.13,
                 pitch: 0,
-                bearing: -179.20
+                bearing: 0
             },
             onChapterEnter: [
                 {
