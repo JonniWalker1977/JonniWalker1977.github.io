@@ -81,7 +81,7 @@ var config = {
         {
             
             id: 'THECONGO',
-            title: 'The Congo Basin',
+            title: 'The Afrotropical Rainforest Realm',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-13-at-10-1-1.png',
             description: '___________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya  </br> </p> </br> </p> LOCATION MAP </p> </p>',
             location: {
@@ -107,7 +107,7 @@ var config = {
         },
         {
              id: 'THECONGOS',
-            title: 'What if the Congo was Deforested in a Day?',
+            title: 'What if this Area was Deforested in a Day?',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/screencapture-studio-mapbox-styles-jonniwalker-cjyiqa8mg088j1djz31ktyqve-edit-2019-12-20-15_02_43-1.png',
             description: '___________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
             location: {
