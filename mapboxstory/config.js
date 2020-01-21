@@ -139,11 +139,11 @@ var config = {
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/Globe-sat-1.png',
             description: '___________________________________ Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, but has expanded service to neighboring areas to support equitable mobility options to the city\'s residents. </br> </p> </br> </p> LOCATION MAP </p> </p>',
             location: {
-             center: [76.415286, 16.999026],
+             center: [107.172924, 14.730673],
              duration: 4500,
-                zoom: 4.6,
-  bearing: 24.8,
-    pitch: 46
+                zoom: 3.75,
+  bearing: -54.40,
+    pitch: 0
             },
             onChapterEnter: [
                 {
