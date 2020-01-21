@@ -194,7 +194,7 @@ var config = {
             description: '___________________________________ A short ride along the Schuylkill River Trail from the Art Museum, Belmont is a twisty, log-ridden rollercoaster of a trail network. It is easy to get turned around, the underbrush is at times impenetrable, and short steep sections come out of nowhere. In other words, it\'s really fun',
             location: {
                 center: [141.189385, -8.308831],
-                duration: 3500,
+                duration: 5500,
                 zoom: 5.07,
                 pitch: 2,
                 bearing: 0
@@ -211,6 +211,35 @@ var config = {
                     opacity: 0.55
                 }
             ]
+        },
+        {
+             
+             id: 'AUSS',
+            title: 'What if this area was Deforested in a Day?',
+            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/screencapture-studio-mapbox-styles-jonniwalker-cjyiqa8mg088j1djz31ktyqve-edit-2019-12-20-15_02_43-1.png',
+            description: '___________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
+            location: {
+       center: [141.189385, -8.308831],
+                duration: 3500,
+                zoom: 5.07,
+                pitch: 2,
+                bearing: 0
+                  
+         },
+            onChapterEnter: [
+                {
+                             layer: 'archive-6-9g1e5q',
+                    
+        opacity: 0.66,
+                    duration: 4500
+                }
+            ],
+             onChapterExit: [
+                {
+                    layer: 'archive-6-9g1e5q',
+                    opacity: 0.55
+                }
+                 ]
         },
         {
             id: 'Chapt',
