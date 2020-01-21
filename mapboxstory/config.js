@@ -188,27 +188,27 @@ var config = {
                  ]
         },
         {
-            id: 'thehimalayas',
-            title: 'The Himalayas',
+            id: 'AUS',
+            title: 'The Australian Oceanic Pacific Rainforest Realm',
             image: '',
             description: '___________________________________ A short ride along the Schuylkill River Trail from the Art Museum, Belmont is a twisty, log-ridden rollercoaster of a trail network. It is easy to get turned around, the underbrush is at times impenetrable, and short steep sections come out of nowhere. In other words, it\'s really fun',
             location: {
-                center: [92.838762, 23.957782],
+                center: [152.298482, -14.474901],
                 duration: 4500,
-                zoom: 5.89,
-                pitch: 46.00,
-                bearing: 34.4
+                zoom: 4.2,
+                pitch: 0,
+                bearing: 0
             },
             onChapterEnter: [
                 {
-                    layer: 'belmont',
-                    opacity: 1
+                   layer: 'archive-6-9g1e5q',
+                    opacity: 0
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'belmont',
-                    opacity: 0
+                    layer: 'archive-6-9g1e5q',
+                    opacity: 0.55
                 }
             ]
         },
