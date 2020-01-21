@@ -141,7 +141,7 @@ var config = {
             location: {
              center: [109.384077, 5.149505],
              duration: 4500,
-                zoom: 3.75,
+                zoom: 4.02,
   bearing: -54.40,
     pitch: 0
             },
