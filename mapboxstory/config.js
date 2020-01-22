@@ -140,11 +140,11 @@ var config = {
             description: '___________________________________ Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, The system initally was focused on Center City, The system initally was focused on Center City, but has expanded service to neighboring areas to support equitable mobility options to the city\'s residents. </br> </p> </br> </p> LOCATION MAP </p> </p>',
 
             location: {
-             center: [93.801867, 3.318879],
+             center: [79.685547, 20.427375],
              duration: 4500,
-                zoom: 3.75,
-  bearing: -8,
-    pitch: 36.5
+                zoom: 3.9,
+  bearing: 1.6,
+    pitch: 21.5
             },
             onChapterEnter: [
                 {
@@ -166,11 +166,11 @@ var config = {
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/screencapture-studio-mapbox-styles-jonniwalker-cjyiqa8mg088j1djz31ktyqve-edit-2019-12-20-15_02_43-1.png',
             description: '___________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
             location: {
-           center: [93.801867, 3.318879],
+                    center: [79.685547, 20.427375],
              duration: 4500,
-                zoom: 3.75,
-  bearing: -8,
-    pitch: 36.5
+                zoom: 3.9,
+  bearing: 1.6,
+    pitch: 21.5
                   
          },
             onChapterEnter: [
