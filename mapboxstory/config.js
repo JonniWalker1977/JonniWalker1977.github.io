@@ -140,11 +140,11 @@ var config = {
             description: '___________________________________ Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, The system initally was focused on Center City, The system initally was focused on Center City, but has expanded service to neighboring areas to support equitable mobility options to the city\'s residents. </br> </p> </br> </p> LOCATION MAP </p> </p>',
 
             location: {
-             center: [79.685547, 20.427375],
+             center: [86.073186, 11.918820],
              duration: 4500,
                 zoom: 3.9,
-  bearing: 1.6,
-    pitch: 21.5
+  bearing: 28.84,
+    pitch: 24
             },
             onChapterEnter: [
                 {
