@@ -197,7 +197,7 @@ var config = {
                 center: [114.042529, 3.378059],
                 duration: 5500,
                 zoom: 3.7,
-                pitch: 0,
+                pitch: 25,
                 bearing: 0
             },
             onChapterEnter: [
@@ -223,7 +223,7 @@ var config = {
 center: [114.042529, 3.378059],
                 duration: 5500,
                 zoom: 3.7,
-                pitch: 0,
+                pitch: 25,
                 bearing: 0
                   
          },
