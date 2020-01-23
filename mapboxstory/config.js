@@ -195,7 +195,7 @@ var config = {
             description: '________________________________ <br/> A short ride along the Schuylkill River Trail from the Art Museum, Belmont is a twisty, log-ridden rollercoaster of a trail network. It is easy to get turned around, the underbrush is at times impenetrable, and short steep sections come out of nowhere. In other words, it\'s really fun',
             location: {
                 center: [114.042529, 3.378059],
-                duration: 5500,
+                duration: 4500,
                 zoom: 3.7,
                 pitch: 0,
                 bearing: 0
@@ -221,7 +221,7 @@ var config = {
             description: '_________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
             location: {
 center: [114.042529, 3.378059],
-                duration: 5500,
+                duration: 4500,
                 zoom: 3.7,
                 pitch: 0,
                 bearing: 0
