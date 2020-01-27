@@ -191,7 +191,7 @@ var config = {
         {
             id: 'AUS',
             title: 'The Australian Oceanic Pacific Rainforest Realm',
-            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-27-at-11-1.png',
+            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-27-at-11-2.png',
             description: '________________________________ <br/> A short ride along the Schuylkill River Trail from the Art Museum, Belmont is a twisty, log-ridden rollercoaster of a trail network. It is easy to get turned around, the underbrush is at times impenetrable, and short steep sections come out of nowhere. In other words, it\'s really fun </br> </p> LOCATION MAP </p> </p>',
             location: {
                 center: [114.542529, 3.378059],
