@@ -136,7 +136,7 @@ var config = {
         {
             id: 'Indo',
             title: ' The Indomalayan Rainforest Realm',
-            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/Globe-sat-1.png',
+            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-28-at-10-1.png',
             description: '________________________________ Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, The system initally was focused on Center City, The system initally was focused on Center City, but has expanded service to neighboring areas to support equitable mobility options to the city\'s residents. </br> </p> </br> </p> LOCATION MAP </p> </p>',
 
             location: {
