@@ -217,7 +217,7 @@ var config = {
              
              id: 'AUSS',
             title: 'What if this area was Deforested in a Day?',
-            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/screencapture-studio-mapbox-styles-jonniwalker-ck3j0ith90fpj1cpeagl6laur-edit-2020-01-27-15_34_51.png',
+            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/screencapture-studio-mapbox-styles-jonniwalker-ck3j0ith90fpj1cpeagl6laur-edit-2020-01-27-15_34_51-1.png',
             description: '________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
             location: {
 center: [114.542529, 3.378059],
