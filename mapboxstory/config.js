@@ -125,7 +125,13 @@ var config = {
                     
         opacity: 0.66,
                     duration: 4500
-                }
+                },
+                {
+                   layer: 'map-labels-test-for-dots-4gwh1l copy',
+                    opacity: 1,
+                    duration: 4500
+                },
+                
             ],
              onChapterExit: [
                 {
