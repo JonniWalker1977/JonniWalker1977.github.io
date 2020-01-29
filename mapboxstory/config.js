@@ -121,6 +121,7 @@ var config = {
             onChapterEnter: [
                 {
                              layer: 'archive-6-9g1e5q',
+                    layer: 'map-labels-test-for-dots-4gwh1l',
                     
         opacity: 0.66,
                     duration: 4500
