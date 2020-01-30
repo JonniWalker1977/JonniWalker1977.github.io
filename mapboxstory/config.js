@@ -10,7 +10,7 @@ var config = {
         {
              id: 'THEAMAZON',
             title: 'A Dystopian Future of Deforestation',
-            description: ' ________________________________ <br/> BY JONNI WALKER | FEBRUARY, 2020 <br/> </p> </p> </p> <img src="https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/world.200409.3x5400x2700-1.png" style=height:95px;width:200px> </br> </p> What would a map of the Earth look like if all the tropical rainforests were deforested in a day? <br/></p> Only around 6% of Earth’s land surface is rainforest – but about half of all animal and plant species live there.<br/></p> With each scroll of your mouse YOU will be taking an ACTION. <br/> </p>SCROLL DOWN<br/></p><img src="https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Scroll-White-1.gif"><br/>  <br/> </p> <img src=""><img src=""><img src=""> </p> </p>  </br>',
+            description: ' ________________________________ <br/> BY JONNI WALKER | FEBRUARY, 2020 <br/> </p> </p> </p> <img src="https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/world.200409.3x5400x2700-1.png" style=height:95px;width:200px> </br> </p> What would a map of the Earth look like if all the tropical rainforests were deforested in a day? <br/></p> The Earth would look drastically different! And it is due to OUR actions that it is changing.<br/></p> With each scroll of your mouse YOU will be taking an ACTION. <br/> </p>SCROLL DOWN<br/></p><img src="https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Scroll-White-1.gif"><br/>  <br/> </p> <img src=""><img src=""><img src=""> </p> </p>  </br>',
             image: '', 
             
     
