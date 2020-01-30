@@ -179,7 +179,7 @@ var config = {
             id: 'Indo',
             title: ' The Indomalayan Rainforest Realm',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-28-at-10-1.png',
-            description: '________________________________ Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, The system initally was focused on Center City.</br> </p> <strong>Number of Football Pitches lost</strong></br> (2001-2018); </p> • India - <strong> 0.4M </strong></p> • Sri Lanka - <strong> 14K </strong></p> • Bangladesh - <strong> 10K </strong>  </br> </p> </br> </p> LOCATION MAP </p> </p>',
+            description: '________________________________ Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, The system initally was focused on Ce</br> </p> <strong>Number of Football Pitches lost</strong></br> (2001-2018); </p> • India - <strong> 0.4M </strong></p> • Sri Lanka - <strong> 14K </strong></p> • Bangladesh - <strong> 10K </strong>  </br> </p> </br> </p> LOCATION MAP </p> </p>',
 
             location: {
              center: [80.201349, 15.872321],
