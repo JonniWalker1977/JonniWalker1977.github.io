@@ -234,7 +234,7 @@ var config = {
             id: 'AUS',
             title: 'The Australian Oceanic Pacific Rainforest Realm',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-27-at-11-1-1-1.png',
-            description: '________________________________ <br/> A short ride along the Schuylkill River Trail from the Art Museum, Belmont is a twisty, log-ridden rollercoaster of a trail network. It is easy to get turned around, the underbrush is at times impenetrable, and short steep sections come out of nowhere. In other words, it\'s really fun </br> </p> <strong>Number of Football Pitches lost</strong></br> (2001-2018); </p> • Indonesia - <strong> 14.3M </strong></p> • <Malasia - <strong> 3.9M </strong></p> • Papua New Guinea - <strong> 1M </strong></br></p> LOCATION MAP </p> </p>',
+            description: '________________________________ <br/> A short ride along the Schuylkill River Trail from the Art Museum, Belmont is a twisty, log-ridden rollercoaster of a trail network. It is easy to get turned around, the unde. In other words, it\'s really fun </br> </p> <strong>Number of Football Pitches lost</strong></br> (2001-2018); </p> • Indonesia - <strong> 14.3M </strong></p> • Malasia - <strong> 3.9M </strong></p> • Papua New Guinea - <strong> 1M </strong></br></p> LOCATION MAP </p> </p>',
             location: {
                 center: [114.162529, 3.378059],
                 duration: 4500,
