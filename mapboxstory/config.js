@@ -80,7 +80,7 @@ var config = {
          },
         {
              id: 'THEAMAZONS',
-            title: 'What if the Amazon was Deforested in a Day?',
+            title: 'What if this Area was Deforested in a Day?',
             description: '________________________________ Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.  </br> </p> </br> </p> LOCATION MAP </p> </p>',
              image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-11-at-18-2.png', 
             
@@ -286,7 +286,7 @@ center: [114.162529, 3.378059],
         },
         {
             id: 'Chapt',
-            title: 'Blah blah blah',
+            title: 'Actions',
             image: '',
             description: 'This steep, rocky gorge can be surprisingly technical. Follow the orange and yellow trails to repeatedly climb and descend through the schist hillsides (careful of the cliffs), or stick to the gravel Forbidden Drive for a relaxing ride along the creek. You\'ll forget you\'re in a city.',
             location: {
