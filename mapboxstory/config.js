@@ -118,7 +118,7 @@ var config = {
             id: 'THECONGO',
             title: 'The Afrotropical Rainforest Realm',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-13-at-10-1-1.png',
-            description: '________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya  </br> </p> <strong>Number of Football Pitches lost</strong></br> (2001-2018); </p> • Democratic Republic of Congo - <strong> 6.8M </strong></p> • Madagascar - <strong> 1.2M </strong></p> • Cameroon - <strong> 0.8M </strong> </br> </p> LOCATION MAP </p> </p>',
+            description: '________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the  </br> </p> <strong>Number of Football Pitches lost</strong></br> (2001-2018); </p> • Democratic Republic of Congo - <strong> 6.8M </strong></p> • Madagascar - <strong> 1.2M </strong></p> • Cameroon - <strong> 0.8M </strong> </br> </p> LOCATION MAP </p> </p>',
             location: {
                center: [17.633644, -3.210479],
     duration: 4500,
