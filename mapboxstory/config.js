@@ -44,6 +44,41 @@ var config = {
                 ]
         },
          {
+             id: 'THEAMAZONSS',
+            title: 'The Neotropical Rainforest Realm',
+            description: '________________________________ Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.  </br> </p> </br> </p> LOCATION MAP </p> </p>',
+             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-11-at-18-2.png', 
+            
+    
+            location: {
+                center: [-73.603475, -11.216189],
+                 duration: 4500,
+                    zoom: 4.09,
+                bearing: -20,
+                pitch: 41.5
+            },
+           
+        
+            onChapterEnter: [
+                {
+                    layer: 'archive-6-9g1e5q',
+                    
+        opacity: ,
+                   
+      
+                    
+                   
+                    
+                }
+            ],
+            onChapterExit: [
+                {
+                    layer: 'archive-6-9g1e5q',
+                    
+                }
+                ]
+        },
+        {
              id: 'THEAMAZONS',
             title: 'What if the Amazon was Deforested in a Day?',
             description: '________________________________ Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.  </br> </p> </br> </p> LOCATION MAP </p> </p>',
