@@ -44,7 +44,7 @@ var config = {
                 ]
         },
          {
-             id: 'THEAMAZONSS',
+             id: 'THEAMAZON1',
             title: 'The Neotropical Rainforest Realm',
             description: '________________________________ Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.  </br> </p> </br> </p> LOCATION MAP </p> </p>',
              image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-11-at-18-2.png', 
@@ -63,7 +63,7 @@ var config = {
                 {
                     layer: 'archive-6-9g1e5q',
                     
-        opacity: ,
+        opacity: 0,
                    
       
                     
@@ -74,10 +74,10 @@ var config = {
             onChapterExit: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    
+                     opacity: 0.54,
                 }
                 ]
-        },
+         },
         {
              id: 'THEAMAZONS',
             title: 'What if the Amazon was Deforested in a Day?',
