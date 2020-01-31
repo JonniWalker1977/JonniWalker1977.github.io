@@ -82,7 +82,7 @@ var config = {
              id: 'THEAMAZONS',
             title: 'What if this Area was Deforested in a Day?',
             description: '________________________________ Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.',
-             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/screencapture-studio-mapbox-styles-jonniwalker-ck3j0ith90fpj1cpeagl6laur-edit-2020-01-31-12_34_34-1.png', 
+             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/screencapture-studio-mapbox-styles-jonniwalker-ck3j0ith90fpj1cpeagl6laur-edit-2020-01-31-16_41_32-1.png', 
             
     
             location: {
