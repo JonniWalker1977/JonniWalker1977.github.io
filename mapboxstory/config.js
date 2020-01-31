@@ -297,11 +297,13 @@ center: [114.162529, 3.378059],
             },
             onChapterEnter: [
                 {
-                    layer: 'archive-6-9g1e5q',
-                    opacity: 0.5
+                             layer: 'archive-6-9g1e5q',
+                    
+        opacity: 0,
+                    duration: 4500
                 }
             ],
-            onChapterExit: [
+             onChapterExit: [
                 {
                     layer: 'archive-6-9g1e5q',
                     opacity: 0
