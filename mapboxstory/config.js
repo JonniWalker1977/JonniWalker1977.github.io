@@ -46,7 +46,7 @@ var config = {
          {
              id: 'THEAMAZON1',
             title: 'The Neotropical Rainforest Realm',
-            description: '________________________________ Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and </br> </p> <strong>Number of Football Pitches lost</strong></br> (2001-2018); </p> • Brazil - <strong> 36.2M </strong></p> • Bolivia - <strong> 3.8M </strong></p> • Peru - <strong> 2.8M </strong> </br> </p></br> LOCATION MAP </p> </p>',
+            description: '________________________________ Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and </br> </p> <strong>Number of Football Pitches lost</strong></br> (2001-2018); </br> • Brazil - <strong> 36.2M </strong></br> • Bolivia - <strong> 3.8M </strong></br> • Peru - <strong> 2.8M </strong> </br> </p></br> LOCATION MAP </p> </p>',
              image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-11-at-18-2.png', 
             
     
@@ -118,7 +118,7 @@ var config = {
             id: 'THECONGO',
             title: 'The Afrotropical Rainforest Realm',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-13-at-10-1-1.png',
-            description: '________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the  </br> </p> <strong>Number of Football Pitches lost</strong></br> (2001-2018); </p> • Democratic Republic of Congo - <strong> 6.8M </strong></p> • Madagascar - <strong> 1.2M </strong></p> • Cameroon - <strong> 0.8M </strong> </br> </p></br> LOCATION MAP </p> </p>',
+            description: '________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the  </br> </p> <strong>Number of Football Pitches lost</strong></br> (2001-2018); </br> • Democratic Republic of Congo - <strong> 6.8M </strong></br> • Madagascar - <strong> 1.2M </strong></br> • Cameroon - <strong> 0.8M </strong> </br> </p></br> LOCATION MAP </p> </p>',
             location: {
                center: [17.633644, -3.210479],
     duration: 4500,
@@ -179,7 +179,7 @@ var config = {
             id: 'Indo',
             title: ' The Indomalayan Rainforest Realm',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-28-at-10-1.png',
-            description: '________________________________ Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, The system initally was focused on Ce</br> </p> <strong>Number of Football Pitches lost</strong></br> (2001-2018); </p> • India - <strong> 0.4M </strong></p> • Sri Lanka - <strong> 14K </strong></p> • Bangladesh - <strong> 10K </strong>  </br></p></br> LOCATION MAP </p> </p>',
+            description: '________________________________ Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, The system initally was focused on Ce</br> </p> <strong>Number of Football Pitches lost</strong></br> (2001-2018); </br> • India - <strong> 0.4M </strong></br> • Sri Lanka - <strong> 14K </strong></br> • Bangladesh - <strong> 10K </strong>  </br></p></br> LOCATION MAP </p> </p>',
 
             location: {
              center: [80.201349, 15.872321],
