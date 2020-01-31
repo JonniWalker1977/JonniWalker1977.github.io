@@ -287,8 +287,8 @@ center: [114.162529, 3.378059],
         {
             id: 'Chapt',
             title: 'Actions',
-            image: '',
-            description: 'This steep, rocky gorge can be surprisingly technical. Follow the orange and yellow trails to repeatedly climb and descend through the schist hillsides (careful of the cliffs), or stick to the gravel Forbidden Drive for a relaxing ride along the creek. You\'ll forget you\'re in a city.',
+            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Letter-A.png',
+            description: 'What if we all took some actions to reverse this?. Follow the orange and yellow trails to repeatedly climb and descend through the schist hillsides (careful of the cliffs), or stick to the gravel Forbidden Drive for a relaxing ride along the creek. You\'ll forget you\'re in a city.',
             location: {
                 center: [],
                 zoom: 13.08,
@@ -297,13 +297,13 @@ center: [114.162529, 3.378059],
             },
             onChapterEnter: [
                 {
-                    layer: 'wissahickon',
-                    opacity: 1
+                    layer: 'archive-6-9g1e5q',
+                    opacity: 0.5
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'wissahickon',
+                    layer: 'archive-6-9g1e5q',
                     opacity: 0
                 }
             ]
