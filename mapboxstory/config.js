@@ -118,7 +118,7 @@ var config = {
             id: 'THECONGO',
             title: 'The Afrotropical Rainforest Realm',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-13-at-10-1-1.png',
-            description: '________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the  </br> </p> <strong>Number of Football Pitches lost</strong></br> (2001-2018); </p> • Democratic Republic of Congo - <strong> 6.8M </strong></p> • Madagascar - <strong> 1.2M </strong></p> • Cameroon - <strong> 0.8M </strong> </br> </p> LOCATION MAP </p> </p>',
+            description: '________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the  </br> </p> <strong>Number of Football Pitches lost</strong></br> (2001-2018); </p> • Democratic Republic of Congo - <strong> 6.8M </strong></p> • Madagascar - <strong> 1.2M </strong></p> • Cameroon - <strong> 0.8M </strong> </br> </p></br> LOCATION MAP </p> </p>',
             location: {
                center: [17.633644, -3.210479],
     duration: 4500,
@@ -179,7 +179,7 @@ var config = {
             id: 'Indo',
             title: ' The Indomalayan Rainforest Realm',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-28-at-10-1.png',
-            description: '________________________________ Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, The system initally was focused on Ce</br> </p> <strong>Number of Football Pitches lost</strong></br> (2001-2018); </p> • India - <strong> 0.4M </strong></p> • Sri Lanka - <strong> 14K </strong></p> • Bangladesh - <strong> 10K </strong>  </br></p> LOCATION MAP </p> </p>',
+            description: '________________________________ Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, The system initally was focused on Ce</br> </p> <strong>Number of Football Pitches lost</strong></br> (2001-2018); </p> • India - <strong> 0.4M </strong></p> • Sri Lanka - <strong> 14K </strong></p> • Bangladesh - <strong> 10K </strong>  </br></p></br> LOCATION MAP </p> </p>',
 
             location: {
              center: [80.201349, 15.872321],
@@ -234,7 +234,7 @@ var config = {
             id: 'AUS',
             title: 'The Australian Oceanic Pacific Rainforest Realm',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-27-at-11-1-1-1.png',
-            description: '________________________________ <br/> A short ride along the Schuylkill River Trail from the Art Museum, Belmont is a twisty, log-ridden rollercoaster of a trail network. It is easy  </br> </p> <strong>Number of Football Pitches lost</strong></br> (2001-2018); </p> • Indonesia - <strong> 14.3M </strong></p> • Malasia - <strong> 3.9M </strong></p> • Papua New Guinea - <strong> 1M </strong></br></p> LOCATION MAP </p> </p>',
+            description: '________________________________ <br/> A short ride along the Schuylkill River Trail from the Art Museum, Belmont is a twisty, log-ridden rollercoaster of a trail network. It is easy  </br> </p> <strong>Number of Football Pitches lost</strong></br> (2001-2018); </p> • Indonesia - <strong> 14.3M </strong></p> • Malasia - <strong> 3.9M </strong></p> • Papua New Guinea - <strong> 1M </strong></br></p></br> LOCATION MAP </p> </p>',
             location: {
                 center: [114.162529, 3.378059],
                 duration: 4500,
