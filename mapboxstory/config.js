@@ -82,7 +82,7 @@ var config = {
              id: 'THEAMAZONS',
             title: 'What if this Area was Deforested in a Day?',
             description: '________________________________ Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.',
-             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/screencapture-studio-mapbox-styles-jonniwalker-ck3j0ith90fpj1cpeagl6laur-edit-2020-01-31-16_41_32-1.png', 
+             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/screencapture-studio-mapbox-styles-jonniwalker-ck3j0ith90fpj1cpeagl6laur-edit-2020-02-01-11_07_31-1.png', 
             
     
             location: {
@@ -143,7 +143,7 @@ var config = {
         {
              id: 'THECONGOS',
             title: 'What if this Area was Deforested in a Day?',
-            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2019/12/screencapture-studio-mapbox-styles-jonniwalker-cjyiqa8mg088j1djz31ktyqve-edit-2019-12-20-15_02_43-1.png',
+            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/screencapture-studio-mapbox-styles-jonniwalker-ck3j0ith90fpj1cpeagl6laur-edit-2020-02-01-11_07_31-1.png',
             description: '________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
             location: {
                center: [17.633644, -3.210479],
@@ -205,7 +205,7 @@ var config = {
              {
              id: 'Indos',
             title: 'What if this area was Deforested in a Day?',
-            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/screencapture-studio-mapbox-styles-jonniwalker-ck3j0ith90fpj1cpeagl6laur-edit-2020-01-31-16_46_18-1.png',
+            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/screencapture-studio-mapbox-styles-jonniwalker-ck3j0ith90fpj1cpeagl6laur-edit-2020-02-01-11_07_31-1.png',
             description: '________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
             location: {
                     center: [80.201349, 15.872321],
@@ -259,7 +259,7 @@ var config = {
              
              id: 'AUSS',
             title: 'What if this area was Deforested in a Day?',
-            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/screencapture-studio-mapbox-styles-jonniwalker-ck3j0ith90fpj1cpeagl6laur-edit-2020-01-27-15_34_51-1.png',
+            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/screencapture-studio-mapbox-styles-jonniwalker-ck3j0ith90fpj1cpeagl6laur-edit-2020-02-01-11_07_31-1.png',
             description: '________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
             location: {
 center: [114.162529, 3.378059],
