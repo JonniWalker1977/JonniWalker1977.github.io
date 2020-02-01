@@ -80,7 +80,7 @@ var config = {
          },
         {
              id: 'THEAMAZONS',
-            title: 'What if this Area was Deforested in a Day?',
+            title: 'What if this area was deforested in a Day?',
             description: '________________________________ Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field.',
              image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/ezgif.com-gif-maker-3.gif', 
             
@@ -142,7 +142,7 @@ var config = {
         },
         {
              id: 'THECONGOS',
-            title: 'What if this Area was Deforested in a Day?',
+            title: 'What if this area was deforested in a Day?',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/ezgif.com-gif-maker-2.gif',
             description: '________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
             location: {
@@ -204,7 +204,7 @@ var config = {
         
              {
              id: 'Indos',
-            title: 'What if this area was Deforested in a Day?',
+            title: 'What if this area was deforested in a day?',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/ezgif.com-gif-maker-5.gif',
             description: '________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
             location: {
@@ -258,7 +258,7 @@ var config = {
         {
              
              id: 'AUSS',
-            title: 'What if this area was Deforested in a Day?',
+            title: 'What if this area was deforested in a day?',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/ezgif.com-gif-maker-4.gif',
             description: '________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
             location: {
