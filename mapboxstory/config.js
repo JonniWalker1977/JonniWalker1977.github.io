@@ -99,7 +99,7 @@ var config = {
                     layer: 'archive-6-9g1e5q',
                     
         opacity: 0.5,
-                    duration: 12000
+                    duration: 14000
       
                     
                    
@@ -159,7 +159,7 @@ var config = {
                    
                     
         opacity: 0.66,
-                    duration: 12000
+                    duration: 14000
                 },
                 {
                    layer: 'map-labels-test-for-dots-4gwh1l copy',
@@ -220,7 +220,7 @@ var config = {
                              layer: 'archive-6-9g1e5q',
                     
         opacity: 0.66,
-                    duration: 12000
+                    duration: 14000
                 }
             ],
              onChapterExit: [
@@ -274,7 +274,7 @@ center: [114.162529, 3.378059],
                              layer: 'archive-6-9g1e5q',
                     
         opacity: 0.66,
-                    duration: 12000
+                    duration: 14000
                 }
             ],
              onChapterExit: [
