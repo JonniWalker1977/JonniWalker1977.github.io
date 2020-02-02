@@ -47,7 +47,7 @@ var config = {
              id: 'THEAMAZON1',
             title: 'The Neotropical Rainforest Realm',
             description: '________________________________ Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </br> • Brazil - <strong> 36.2M </strong></br> • Bolivia - <strong> 3.8M </strong></br> • Peru - <strong> 2.8M </strong> </br> </p></br> LOCATION MAP </p> </p>',
-             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-11-at-18-2.png', 
+             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/giphy-globe-1.png', 
             
     
             location: {
