@@ -178,7 +178,7 @@ var config = {
         {
             id: 'Indo',
             title: ' The Indomalayan Rainforest Realm',
-            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-28-at-10-1.png',
+            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/giphy-Himalaya.png',
             description: '________________________________ Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, The system initally was focused on Ce</br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </br> • India - <strong> 0.4M </strong></br> • Sri Lanka - <strong> 14K </strong></br> • Bangladesh - <strong> 10K </strong>  </br></p></br> LOCATION MAP </p> </p>',
 
             location: {
