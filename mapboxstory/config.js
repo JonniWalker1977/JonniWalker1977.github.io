@@ -226,7 +226,8 @@ var config = {
              onChapterExit: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    opacity: 0
+                    opacity: 0,
+                     duration: 10
                 }
                  ]
         },
@@ -281,6 +282,7 @@ center: [114.162529, 3.378059],
                 {
                     layer: 'archive-6-9g1e5q',
                     opacity: 0.5
+                    
                 }
                  ]
         },
