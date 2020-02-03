@@ -46,7 +46,7 @@ var config = {
          {
              id: 'THEAMAZON1',
             title: 'The Neotropical Rainforest Realm',
-            description: '________________________________ Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </br> • Brazil - <strong> 36.2M </strong></br> • Bolivia - <strong> 3.8M </strong></br> • Peru - <strong> 2.8M </strong> </br> </p></br> LOCATION MAP </p> </p>',
+            description: '________________________________ It has been reported that the Amazon loses a football-pitched sized area of land every second. The top three countries, in this region, for primary forest cover loss are listed below. </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </br> • Brazil - <strong> 36.2M </strong></br> • Bolivia - <strong> 3.8M </strong></br> • Peru - <strong> 2.8M </strong> </br> </p></br> LOCATION MAP </p> </p>',
              image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/giphy-globe-1.png', 
             
     
@@ -118,7 +118,7 @@ var config = {
             id: 'THECONGO',
             title: 'The Afrotropical Rainforest Realm',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/giphy-Africa.png',
-            description: '________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the  </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </br> • Democratic Republic of Congo - <strong> 6.8M </strong></br> • Madagascar - <strong> 1.2M </strong></br> • Cameroon - <strong> 0.8M </strong> </br> </p></br> LOCATION MAP </p> </p>',
+            description: '________________________________ The scale of forest lossed is simply staggering. The top three countries, in this region, for primary forest cover loss are listed below.  </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </br> • Democratic Republic of Congo - <strong> 6.8M </strong></br> • Madagascar - <strong> 1.2M </strong></br> • Cameroon - <strong> 0.8M </strong> </br> </p></br> LOCATION MAP </p> </p>',
             location: {
                center: [17.633644, -3.210479],
     duration: 4500,
