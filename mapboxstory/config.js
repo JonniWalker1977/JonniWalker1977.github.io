@@ -319,7 +319,7 @@ center: [114.162529, 3.378059],
             id: 'chapter',
             title: 'Sources & Thanks',
             image: '',
-            description: '• Global Forest Watch 2019 (using a 30 percent tree cover thresh hold as the definition of "forest")</br> • FIFA minimum 0.64 hectares </br> • Allan Walker </br> • Lo Benichou </br> • World Biomes </br> • Nasa Blue Marble </br> • Giphy </br> • Natural Earth ',
+            description: '• Global Forest Watch 2019 (Primary Forest Cover Loss) </br> • FIFA (football pitch size used 0.64 ha) </br> • WWF Terrestrial Ecoregions of the World </br> • Nasa Blue Marble </br> • Natural Earth (various shapefiles) </br> • Giphy </br></p> THANK YOU</br> • Allan Walker </br> • Lo Benichou </br> • MAPBOX ',
             location: {
                 center: [],
                 zoom: 13.73,
