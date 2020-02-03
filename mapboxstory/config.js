@@ -206,7 +206,7 @@ var config = {
              id: 'Indos',
             title: 'What if this area was deforested in a day?',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/ezgif.com-gif-maker-5.gif',
-            description: '________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
+            description: '________________________________ This part of the Indomalayan realm covers the Andaman and Nicobar Islands, the Western Ghats, which fringe the Arabian Sea, the coastline of peninsular India, and the greater Assam region in the north-east. Approximately half of the island of Sri Lanka would be drastically changed.  ',
             location: {
                     center: [80.201349, 15.872321],
              duration: 4500,
