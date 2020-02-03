@@ -289,7 +289,7 @@ center: [114.162529, 3.378059],
         {
             id: 'Chapt',
             title: 'Actions',
-            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/5e37ecbf63191368661936.gif',
+            image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/5e37f33910412421411288.gif',
             description: 'What if we all took some actions to reverse this?. Follow the orange and yellow trails to repeatedly climb and descend through the schist hillsides (careful of the cliffs), or stick to the gravel Forbidden Drive for a relaxing ride along the creek. You\'ll forget you\'re in a city.',
             location: {
               center: [114.162529, 3.378059],
