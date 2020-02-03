@@ -315,9 +315,9 @@ center: [114.162529, 3.378059],
         },
         {
             id: 'chapter',
-            title: 'blah blah blah',
+            title: 'Sources & Thanks',
             image: '',
-            description: 'Pennypack is a great introduction trail system. Not too steep and not too technical, the beautiful wooded park also provides a great escape from urban life. The south side trails are originally bridle trails, so be nice to equestrians and dismount when you approach them.',
+            description: 'FIFA minimum 0.64 hectares, Allan Walker, Lo Benichou, World Biomes, Nasa Blue Marble, Giphy, Natural Earth .',
             location: {
                 center: [],
                 zoom: 13.73,
