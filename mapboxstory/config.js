@@ -261,7 +261,7 @@ var config = {
              id: 'AUSS',
             title: 'What if this area was deforested in a day?',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/ezgif.com-gif-maker-4.gif',
-            description: '__________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
+            description: '__________________________________ The Pacific islands landscape would drastically be changed from an oasis of green to a baron, scarred collection of islands and archipelagos. The bulk of the forest in this region lies on the world\'s second largest island, Papa New Guinea.',
             location: {
 center: [114.162529, 3.378059],
                 duration: 4500,
