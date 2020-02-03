@@ -235,7 +235,7 @@ var config = {
             id: 'AUS',
             title: 'The Australian Oceanic Pacific Rainforest Realm',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/Indonesia-globe-1.png',
-            description: '__________________________________ <br/> This scale of rainforest loss is incredibly staggering. The top three countries in this region affected by primary forest cover loss are listed below.  </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </br> • Indonesia - <strong> 14.3M </strong></br> • Malasia - <strong> 3.9M </strong></br> • Papua New Guinea - <strong> 1M </strong></br></p></br> LOCATION MAP </p> </p>',
+            description: '_________________________________ <br/> This scale of rainforest loss is incredibly staggering. The top three countries in this region affected by primary forest cover loss are listed below.  </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </br> • Indonesia - <strong> 14.3M </strong></br> • Malasia - <strong> 3.9M </strong></br> • Papua New Guinea - <strong> 1M </strong></br></p></br> LOCATION MAP </p> </p>',
             location: {
                 center: [114.162529, 3.378059],
                 duration: 4500,
@@ -261,7 +261,7 @@ var config = {
              id: 'AUSS',
             title: 'What if this area was deforested in a day?',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/ezgif.com-gif-maker-4.gif',
-            description: '__________________________________ The Pacific islands landscape would drastically be changed from an oasis of green to a baron, scarred collection of islands and archipelagos. The bulk of the forest in this region lies on the world\'s second largest island, Papa New Guinea.',
+            description: '_________________________________ The Pacific islands landscape would drastically be changed from an oasis of green to a baron, scarred collection of islands and archipelagos. The bulk of the forest in this region lies on the world\'s second largest island, Papa New Guinea.',
             location: {
 center: [114.162529, 3.378059],
                 duration: 4500,
