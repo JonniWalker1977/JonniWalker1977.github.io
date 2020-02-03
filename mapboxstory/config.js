@@ -15,7 +15,7 @@ var config = {
             
     
             location: {
-                center: [-71.603475, -11.216189],
+                center: [-72.603475, -11.216189],
                  duration: 4500,
                     zoom: 4.09,
                 bearing: -20,
@@ -51,7 +51,7 @@ var config = {
             
     
             location: {
-                center: [-71.603475, -11.216189],
+                center: [-72.603475, -11.216189],
                  duration: 4500,
                     zoom: 4.09,
                 bearing: -20,
@@ -86,7 +86,7 @@ var config = {
             
     
             location: {
-                center: [-71.603475, -11.216189],
+                center: [-72.603475, -11.216189],
                  duration: 4500,
                     zoom: 4.09,
                 bearing: -20,
