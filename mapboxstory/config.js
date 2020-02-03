@@ -158,7 +158,7 @@ var config = {
                              layer: 'archive-6-9g1e5q',
                    
                     
-        opacity: 0.66,
+        opacity: 0.69,
                     duration: 14000
                 },
                 {
