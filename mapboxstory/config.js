@@ -118,7 +118,7 @@ var config = {
             id: 'THECONGO',
             title: 'The Afrotropical Rainforest Realm',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/giphy-Africa.png',
-            description: '________________________________ The scale of forest lossed is simply staggering. The top three countries, in this region, for primary forest cover loss are listed below.  </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </br> • Democratic Republic of Congo - <strong> 6.8M </strong></br> • Madagascar - <strong> 1.2M </strong></br> • Cameroon - <strong> 0.8M </strong> </br> </p></br> LOCATION MAP </p> </p>',
+            description: '________________________________ The scale of forest loss is simply staggering. The top three countries, in this region, for primary forest cover loss are listed below.  </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </br> • Democratic Republic of Congo - <strong> 6.8M </strong></br> • Madagascar - <strong> 1.2M </strong></br> • Cameroon - <strong> 0.8M </strong> </br> </p></br> LOCATION MAP </p> </p>',
             location: {
                center: [17.633644, -3.210479],
     duration: 4500,
@@ -144,7 +144,7 @@ var config = {
              id: 'THECONGOS',
             title: 'What if this area was deforested in a Day?',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/ezgif.com-gif-maker-2.gif',
-            description: '________________________________ Some 75% of Africa\'s remaining rainforest is located in Central Africa. The bulk of this region\'s forests are found in the Congo Basin in the Democratic Republic of Congo and Congo. </br><p/> These forests are mostly threatened by logging, industrial agriculture, and subsistence activities, especially fuelwood collection and smallholder agriculture.</br><p/>',
+            description: '__________________________________ Some 75% of Africa\'s remaining rainforest is located in Central Africa. The bulk of this region\'s forests are found in the Congo Basin in the Democratic Republic of Congo and Congo. </br><p/> These forests are mostly threatened by logging, industrial agriculture, and subsistence activities, especially fuelwood collection and smallholder agriculture.</br><p/>',
             location: {
                center: [17.633644, -3.210479],
     duration: 4500,
