@@ -317,7 +317,7 @@ center: [114.162529, 3.378059],
             id: 'chapter',
             title: 'Sources & Thanks',
             image: '',
-            description: 'FIFA minimum 0.64 hectares, Allan Walker, Lo Benichou, World Biomes, Nasa Blue Marble, Giphy, Natural Earth .',
+            description: '• Global Forest Watch 2019 (using a 30 percent tree cover thresh hold as the definition of "forest")</br> • FIFA minimum 0.64 hectares </br> • Allan Walker </br> • Lo Benichou </br> • World Biomes </br> • Nasa Blue Marble </br> • Giphy </br> • Natural Earth ',
             location: {
                 center: [],
                 zoom: 13.73,
