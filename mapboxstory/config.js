@@ -37,7 +37,7 @@ var config = {
                     layer: 'archive-6-9g1e5q',
                     
           
-      opacity: 0.54
+      opacity: 0.6
                     
     
                 }
@@ -74,7 +74,7 @@ var config = {
             onChapterExit: [
                 {
                     layer: 'archive-6-9g1e5q',
-                     opacity: 0.54,
+                     opacity: 0.6,
                 }
                 ]
          },
@@ -109,7 +109,7 @@ var config = {
             onChapterExit: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    opacity: 0.55
+                    opacity: 0.6
                 }
                 ]
         },
@@ -136,7 +136,7 @@ var config = {
              onChapterExit: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    opacity: 0.55
+                    opacity: 0.6
                 }
                  ]
         },
@@ -171,7 +171,7 @@ var config = {
              onChapterExit: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    opacity: 0.55
+                    opacity: 0.6
                 }
                  ]
         },
@@ -197,7 +197,7 @@ var config = {
             onChapterExit: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    opacity: 0.55
+                    opacity: 0.6
                 }
             ]
         },
@@ -281,7 +281,7 @@ center: [114.162529, 3.378059],
              onChapterExit: [
                 {
                     layer: 'archive-6-9g1e5q',
-                    opacity: 0.5
+                    opacity: 0.6
                     
                 }
                  ]
