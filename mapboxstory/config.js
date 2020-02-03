@@ -144,7 +144,7 @@ var config = {
              id: 'THECONGOS',
             title: 'What if this area was deforested in a Day?',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/ezgif.com-gif-maker-2.gif',
-            description: '________________________________ Some 75 percent of Africa\'s remaining rainforest is located in Central Africa. The bulk of this region\'s forests are found in the Congo Basin in the Democratic Republic of Congo and Congo. </br><p/> These forests are mostly threatened by logging, industrial agriculture, and subsistence activities, especially fuelwood collection and smallholder agriculture.',
+            description: '________________________________ Some 75% of Africa\'s remaining rainforest is located in Central Africa. The bulk of this region\'s forests are found in the Congo Basin in the Democratic Republic of Congo and Congo. </br><p/> These forests are mostly threatened by logging, industrial agriculture, and subsistence activities, especially fuelwood collection and smallholder agriculture.',
             location: {
                center: [17.633644, -3.210479],
     duration: 4500,
