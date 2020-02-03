@@ -81,7 +81,7 @@ var config = {
         {
              id: 'THEAMAZONS',
             title: 'What if this area was deforested in a day?',
-            description: '________________________________ Getting around Philadelphia on two wheels is fast, fun, and cheaters and cats and dogs and rabbits and horses and Kakapo and Takahe and rats<br/> </p> </p> Fast, fun, and cheaters and cats its and catsGetting around Philadelphia on two horse around the field. </br></p>',
+            description: '________________________________ The Amazon River Basin is roughly the size of the forty-eight contiguous United States and covers some 40 percent of the South American continent. <br/> </p> </p> Deforesting this area in a day would fundamentally scar the globe. </br></p>',
              image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/ezgif.com-gif-maker-3.gif?', 
             
     
