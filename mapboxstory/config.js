@@ -292,16 +292,18 @@ center: [114.162529, 3.378059],
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/01/Letter-A.png',
             description: 'What if we all took some actions to reverse this?. Follow the orange and yellow trails to repeatedly climb and descend through the schist hillsides (careful of the cliffs), or stick to the gravel Forbidden Drive for a relaxing ride along the creek. You\'ll forget you\'re in a city.',
             location: {
-                center: [],
-                zoom: 13.08,
-                pitch: 47.50,
-                bearing: 32.80
+                center: [-72.603475, -11.216189],
+                 duration: 4500,
+                    zoom: 4.09,
+                bearing: -20,
+                pitch: 41.5
             },
             onChapterEnter: [
                 {
                              layer: 'archive-6-9g1e5q',
                     
         opacity: 0.55,
+                    duration:4500,
                     
                 }
             ],
@@ -309,7 +311,7 @@ center: [114.162529, 3.378059],
                 {
                     layer: 'archive-6-9g1e5q',
                     opacity: 0,
-                    duration: 4500
+                    
                 }
             ]
         },
