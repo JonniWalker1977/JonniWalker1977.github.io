@@ -290,7 +290,7 @@ center: [114.162529, 3.378059],
             id: 'Chapt',
             title: 'Actions',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/5e37f33910412421411288.gif',
-            description: 'What if we all took some actions to reverse this?. Follow the orange and yellow trails to repeatedly climb and descend through the schist hillsides (careful of the cliffs), or stick to the gravel Forbidden Drive for a relaxing ride along the creek. You\'ll forget you\'re in a city.',
+            description: '________________________________ Doesn\'t OUR planet look better this way? It is time we ALL take action to stop further deforestation of the world\'s rainforests and stop a potential dystopian tomorrow. A collective effort from Government\'s, Businesses AND individuals is needed right now! ',
             location: {
               center: [114.162529, 3.378059],
                 duration: 4500,
