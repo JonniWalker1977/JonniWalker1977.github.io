@@ -303,7 +303,7 @@ center: [114.162529, 3.378059],
                              layer: 'archive-6-9g1e5q',
                     
         opacity: 0,
-                    duration:10000,
+                    duration:12000,
                     
                 }
             ],
