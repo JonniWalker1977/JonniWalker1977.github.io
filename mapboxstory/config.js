@@ -235,7 +235,7 @@ var config = {
             id: 'AUS',
             title: 'The Australian Oceanic Pacific Rainforest Realm',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/Indonesia-globe-1.png',
-            description: '________________________________ <br/> This scale of rainforest loss is incredibly staggering. The top three countries in this region affected by primary forest cover loss are listed below.  </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </br> • Indonesia - <strong> 14.3M </strong></br> • Malasia - <strong> 3.9M </strong></br> • Papua New Guinea - <strong> 1M </strong></br></p></br> LOCATION MAP </p> </p>',
+            description: '__________________________________ <br/> This scale of rainforest loss is incredibly staggering. The top three countries in this region affected by primary forest cover loss are listed below.  </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </br> • Indonesia - <strong> 14.3M </strong></br> • Malasia - <strong> 3.9M </strong></br> • Papua New Guinea - <strong> 1M </strong></br></p></br> LOCATION MAP </p> </p>',
             location: {
                 center: [114.162529, 3.378059],
                 duration: 4500,
@@ -261,7 +261,7 @@ var config = {
              id: 'AUSS',
             title: 'What if this area was deforested in a day?',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/ezgif.com-gif-maker-4.gif',
-            description: '________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
+            description: '__________________________________ Philaun, the public transit infrastructun driving (and parking)and cheat and yarn and bilbo and frodo and golum the vapour boy and dogs and Finn and Allan and Anya',
             location: {
 center: [114.162529, 3.378059],
                 duration: 4500,
@@ -290,7 +290,7 @@ center: [114.162529, 3.378059],
             id: 'Chapt',
             title: 'Actions',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/5e37f33910412421411288.gif',
-            description: '________________________________ Doesn\'t our planet look better this way? It is time we all take action to stop further deforestation of the world\'s rainforests and stop a potential dystopian tomorrow. A collective effort from governments, businesses and individuals is needed right now! ',
+            description: '_________________________________ Doesn\'t our planet look better this way? It is time we all take action to stop further deforestation of the world\'s rainforests and stop a potential dystopian tomorrow. A collective effort from governments, businesses and individuals is needed right now! ',
             location: {
               center: [114.162529, 3.378059],
                 duration: 4500,
