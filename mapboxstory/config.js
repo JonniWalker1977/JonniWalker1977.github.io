@@ -319,7 +319,7 @@ center: [114.162529, 3.378059],
             id: 'chapter',
             title: 'Sources & Thanks',
             image: '',
-            description: '• Global Forest Watch 2019 (Primary Forest Cover Loss) </br> • FIFA (football pitch size used 0.64 ha) </br> • WWF Terrestrial Ecoregions of the World </br> • Nasa Blue Marble </br> • Natural Earth (various shapefiles) </br> • Giphy </br></p> THANK YOU</br> • Allan Walker </br> • Lo Benichou </br> • MAPBOX ',
+            description: '• Global Forest Watch 2019 (Primary Forest Cover Loss) </br> • FIFA (football pitch size used 0.64 ha) </br> • WWF Terrestrial Ecoregions of the World </br> • Nasa Blue Marble </br> • Natural Earth (various shapefiles) </br> • Giphy </br></p> THANK YOU</br> • Allan Walker </br> • Lo Benichou </br> • MAPBOX </br> • Craig Taylor',
             location: {
                 center: [],
                 zoom: 13.73,
