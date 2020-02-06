@@ -46,7 +46,7 @@ var config = {
          {
              id: 'THEAMAZON1',
             title: 'The Neotropical Rainforest Realm',
-            description: '_____________________________ </br> It has been reported that the Amazon rainforest loses a football-pitched sized area of land every second. The top three countries in this region affected by primary forest cover loss are listed below.  </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </strong> </br> Brazil "  "&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;	 36.2M </br> Bolivia 	  &#9608; 	3.8M</br> Peru  	 &#9608;	 2.8M </br> </p></br> LOCATION MAP </p> </p>',
+            description: '_____________________________ </br> It has been reported that the Amazon rainforest loses a football-pitched sized area of land every second. The top three countries in this region affected by primary forest cover loss are listed below.  </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </strong> </br> Brazil &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;	 36.2M </br> Bolivia 	  &#9608; 	3.8M</br> Peru  	 &#9608;	 2.8M </br> </p></br> LOCATION MAP </p> </p>',
              image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/giphy-globe-1.png', 
             
     
