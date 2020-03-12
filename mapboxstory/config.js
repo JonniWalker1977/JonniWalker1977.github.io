@@ -290,7 +290,7 @@ center: [114.162529, 3.378059],
             id: 'Chapt',
             title: 'Action is needed NOW',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/5e37f33910412421411288.gif',
-            description: '______________________________________ </br> Lets go back in time one day. </br><p/> Doesn\'t our planet look better this way? It is time we all take action to stop further deforestation of the world\'s rainforests and stop a potential dystopian tomorrow. </br><p/> A truely global collective effort from governments, businesses and individuals is needed right now! ',
+            description: '___________________________________________ </br> Lets go back in time one day. </br><p/> Doesn\'t our planet look better this way? It is time we all take action to stop further deforestation of the world\'s rainforests and stop a potential dystopian tomorrow. </br><p/> A truely global collective effort from governments, businesses and individuals is needed right now! ',
             location: {
               center: [114.162529, 3.378059],
                 duration: 4500,
