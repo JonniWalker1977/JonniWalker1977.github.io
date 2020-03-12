@@ -46,7 +46,7 @@ var config = {
          {
              id: 'THEAMAZON1',
             title: 'The Neotropical Rainforest Realm',
-           description: '_____________________________________ </br> It has been reported that the Amazon rainforest loses a football-pitched sized area of land every second. The top three countries in this region affected by primary forest cover loss are listed below.  </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </strong> </br>  • Brazil - 36.2M </br> • Bolivia - 3.8M</br> • Peru - 2.8M </br> </p></br> LOCATION MAP </p> </p>',
+           description: '______________________________________ </br> It has been reported that the Amazon rainforest loses a football-pitched sized area of land every second. The top three countries in this region affected by primary forest cover loss are listed below.  </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </strong> </br>  • Brazil - 36.2M </br> • Bolivia - 3.8M</br> • Peru - 2.8M </br> </p></br> LOCATION MAP </p> </p>',
              image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/giphy-globe-1.png', 
             
     
@@ -81,7 +81,7 @@ var config = {
         {
              id: 'THEAMAZONS',
             title: 'What if this area was deforested in a day?',
-            description: '_______________________________________ </br>The Amazon River Basin is roughly the size of the forty-eight contiguous United States and covers some 40 percent of the South American continent. <br/> </p> </p> Deforesting this area in a day would fundamentally scar the globe. </br></p>',
+            description: '________________________________________ </br>The Amazon River Basin is roughly the size of the forty-eight contiguous United States and covers some 40 percent of the South American continent. <br/> </p> </p> Deforesting this area in a day would fundamentally scar the globe. </br></p>',
              image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/ezgif.com-gif-maker-3.gif?', 
             
     
@@ -118,7 +118,7 @@ var config = {
             id: 'THECONGO',
             title: 'The Afrotropical Rainforest Realm',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/giphy-Africa.png',
-            description: '_______________________________ </br>This scale of rainforest loss is incredibly staggering. The top three countries in this region affected by primary forest cover loss are listed below.  </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </br> • Democratic Republic of Congo - <strong> 6.8M </strong></br> • Madagascar - <strong> 1.2M </strong></br> • Cameroon - <strong> 0.8M </strong> </br> </p></br> LOCATION MAP </p> </p>',
+            description: '________________________________ </br>This scale of rainforest loss is incredibly staggering. The top three countries in this region affected by primary forest cover loss are listed below.  </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </br> • Democratic Republic of Congo - <strong> 6.8M </strong></br> • Madagascar - <strong> 1.2M </strong></br> • Cameroon - <strong> 0.8M </strong> </br> </p></br> LOCATION MAP </p> </p>',
             location: {
                center: [17.633644, -3.210479],
     duration: 4500,
@@ -235,7 +235,7 @@ var config = {
             id: 'AUS',
             title: 'The Australian Oceanic Pacific Rainforest Realm',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/Indonesia-globe-1.png',
-            description: '_______________________________ <br/> This scale of rainforest loss is incredibly staggering. The top three countries in this region affected by primary forest cover loss are listed below.  </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </br> • Indonesia - <strong> 14.3M </strong></br> • Malasia - <strong> 3.9M </strong></br> • Papua New Guinea - <strong> 1M </strong></br></p></br> LOCATION MAP </p> </p>',
+            description: '________________________________ <br/> This scale of rainforest loss is incredibly staggering. The top three countries in this region affected by primary forest cover loss are listed below.  </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </br> • Indonesia - <strong> 14.3M </strong></br> • Malasia - <strong> 3.9M </strong></br> • Papua New Guinea - <strong> 1M </strong></br></p></br> LOCATION MAP </p> </p>',
             location: {
                 center: [114.162529, 3.378059],
                 duration: 4500,
