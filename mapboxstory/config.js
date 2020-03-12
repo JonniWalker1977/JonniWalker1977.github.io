@@ -46,7 +46,7 @@ var config = {
          {
              id: 'THEAMAZON1',
             title: 'The Neotropical Rainforest Realm',
-           description: '__________________________________ </br> It has been reported that the Amazon rainforest loses a football-pitched sized area of land every second. The top three countries in this region affected by primary forest cover loss are listed below.  </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </strong> </br>  • Brazil - 36.2M </br> • Bolivia - 3.8M</br> • Peru - 2.8M </br> </p></br> LOCATION MAP </p> </p>',
+           description: '____________________________________ </br> It has been reported that the Amazon rainforest loses a football-pitched sized area of land every second. The top three countries in this region affected by primary forest cover loss are listed below.  </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </strong> </br>  • Brazil - 36.2M </br> • Bolivia - 3.8M</br> • Peru - 2.8M </br> </p></br> LOCATION MAP </p> </p>',
              image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/giphy-globe-1.png', 
             
     
@@ -81,7 +81,7 @@ var config = {
         {
              id: 'THEAMAZONS',
             title: 'What if this area was deforested in a day?',
-            description: '_______________________________________ </br>The Amazon River Basin is roughly the size of the forty-eight contiguous United States and covers some 40 percent of the South American continent. <br/> </p> </p> Deforesting this area in a day would fundamentally scar the globe. </br></p>',
+            description: '________________________________________ </br>The Amazon River Basin is roughly the size of the forty-eight contiguous United States and covers some 40 percent of the South American continent. <br/> </p> </p> Deforesting this area in a day would fundamentally scar the globe. </br></p>',
              image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/ezgif.com-gif-maker-3.gif?', 
             
     
@@ -118,7 +118,7 @@ var config = {
             id: 'THECONGO',
             title: 'The Afrotropical Rainforest Realm',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/giphy-Africa.png',
-            description: '_______________________________ </br>This scale of rainforest loss is incredibly staggering. The top three countries in this region affected by primary forest cover loss are listed below.  </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </br> • Democratic Republic of Congo - <strong> 6.8M </strong></br> • Madagascar - <strong> 1.2M </strong></br> • Cameroon - <strong> 0.8M </strong> </br> </p></br> LOCATION MAP </p> </p>',
+            description: '________________________________ </br>This scale of rainforest loss is incredibly staggering. The top three countries in this region affected by primary forest cover loss are listed below.  </br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </br> • Democratic Republic of Congo - <strong> 6.8M </strong></br> • Madagascar - <strong> 1.2M </strong></br> • Cameroon - <strong> 0.8M </strong> </br> </p></br> LOCATION MAP </p> </p>',
             location: {
                center: [17.633644, -3.210479],
     duration: 4500,
@@ -144,7 +144,7 @@ var config = {
              id: 'THECONGOS',
             title: 'What if this area was deforested in a day?',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/ezgif.com-gif-maker-2.gif',
-            description: '____________________________________</br> Some 75% of Africa\'s remaining rainforest is located in Central Africa. The bulk of this region\'s forests are found in the Congo Basin in the Democratic Republic of Congo and Congo. </br><p/> These forests are mostly threatened by logging, industrial agriculture, and subsistence activities, especially fuelwood collection and smallholder agriculture.</br><p/>',
+            description: '___________________________________</br> Some 75% of Africa\'s remaining rainforest is located in Central Africa. The bulk of this region\'s forests are found in the Congo Basin in the Democratic Republic of Congo and Congo. </br><p/> These forests are mostly threatened by logging, industrial agriculture, and subsistence activities, especially fuelwood collection and smallholder agriculture.</br><p/>',
             location: {
                center: [17.633644, -3.210479],
     duration: 4500,
@@ -179,7 +179,7 @@ var config = {
             id: 'Indo',
             title: ' The Indomalayan Rainforest Realm',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/giphy-Himalaya.png',
-            description: '________________________________ </br>This scale of rainforest loss is incredibly staggering. The top three countries in this region affected by primary forest cover loss are listed below.</br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </br> • India - <strong> 0.4M </strong></br> • Sri Lanka - <strong> 14K </strong></br> • Bangladesh - <strong> 10K </strong>  </br></p></br> LOCATION MAP </p> </p>',
+            description: '_______________________________ </br>This scale of rainforest loss is incredibly staggering. The top three countries in this region affected by primary forest cover loss are listed below.</br> </p> <strong>No. of Football Pitches lost</strong> (2001-2018); </br> • India - <strong> 0.4M </strong></br> • Sri Lanka - <strong> 14K </strong></br> • Bangladesh - <strong> 10K </strong>  </br></p></br> LOCATION MAP </p> </p>',
 
             location: {
              center: [80.201349, 15.872321],
@@ -206,7 +206,7 @@ var config = {
              id: 'Indos',
             title: 'What if this area was deforested in a day?',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/ezgif.com-gif-maker-5.gif',
-            description: '_____________________________________</br> This part of the Indomalayan realm covers the Andaman and Nicobar Islands, the Western Ghats, which fringe the Arabian Sea, the coastline of peninsular India, and the greater Assam region in the north-east. Vast swaithes of the island of Sri Lanka would be drastically changed.  ',
+            description: '____________________________________</br> This part of the Indomalayan realm covers the Andaman and Nicobar Islands, the Western Ghats, which fringe the Arabian Sea, the coastline of peninsular India, and the greater Assam region in the north-east. Vast swaithes of the island of Sri Lanka would be drastically changed.  ',
             location: {
                     center: [80.201349, 15.872321],
              duration: 4500,
@@ -261,7 +261,7 @@ var config = {
              id: 'AUSS',
             title: 'What if this area was deforested in a day?',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/ezgif.com-gif-maker-4.gif',
-            description: '________________________________________ </br> The Pacific islands landscape would drastically be changed from an oasis of green to a baron, scarred collection of islands and archipelagos. The bulk of the forest in this region lies on the world\'s second largest island, Papa New Guinea.',
+            description: '______________________________________ </br> The Pacific islands landscape would drastically be changed from an oasis of green to a baron, scarred collection of islands and archipelagos. The bulk of the forest in this region lies on the world\'s second largest island, Papa New Guinea.',
             location: {
 center: [114.162529, 3.378059],
                 duration: 4500,
@@ -290,7 +290,7 @@ center: [114.162529, 3.378059],
             id: 'Chapt',
             title: 'Action is needed NOW',
             image: 'https://www.jonniwalkerdatablog.com/wp-content/uploads/2020/02/5e37f33910412421411288.gif',
-            description: '____________________________ </br> Lets go back in time one day. </br><p/> Doesn\'t our planet look better this way? It is time we all take action to stop further deforestation of the world\'s rainforests and stop a potential dystopian tomorrow. </br><p/> A truely global collective effort from governments, businesses and individuals is needed right now! ',
+            description: '________________________ </br> Lets go back in time one day. </br><p/> Doesn\'t our planet look better this way? It is time we all take action to stop further deforestation of the world\'s rainforests and stop a potential dystopian tomorrow. </br><p/> A truely global collective effort from governments, businesses and individuals is needed right now! ',
             location: {
               center: [114.162529, 3.378059],
                 duration: 4500,
