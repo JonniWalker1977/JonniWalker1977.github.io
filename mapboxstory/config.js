@@ -94,4 +94,4 @@ map.setTerrain({"source": "mapbox-dem", "exaggeration": 30});
 
         }
     ]
-};
+
