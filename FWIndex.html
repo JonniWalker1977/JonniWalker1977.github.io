@@ -1,104 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Jonni's 3D World</title>
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+<script src="mapbox-gl-dev.js"></script>
+<link href="mapbox-gl.css" rel="stylesheet" />
+<link href='https://api.mapbox.com/mapbox-assembly/v0.23.2/assembly.min.css' rel='stylesheet'>
+<script src='https://api.mapbox.com/mapbox-assembly/v0.23.2/assembly.js'></script>
+<style>
+body { margin: 0; padding: 0; }
+
+#map {
+	  width: 100vw;
+      height: 100vh;
+      top: 0;
+      margin: 0 auto;
+      position: relative;
+}
+</style>
+</head>
+
+<body>
+
+<div id="map"></div>
+
+</body> 
+<script>
+
+
 mapboxgl.accessToken = 'pk.eyJ1Ijoiam9ubml3YWxrZXIiLCJhIjoiY2loeG82cWplMDA4N3cxa3MzZXU2N2JpYSJ9.H6vPKI0UKLv733mSCXh2Lw';
     var map = new mapboxgl.Map({
         container: 'map',
-        style: 'mapbox://styles/jonniwalker/ckmoortpd0nq617mhksohx12q?fresh=true'
+        setRenderWorldCopies: 'false',
+style: 'mapbox://styles/jonniwalker/cko5mcyze2c2e17mux0j53dbs?fresh=true',
+        center: [-122.335167,47.608013],
+        zoom: 7,
+        pitch: 15,
+        renderWorldCopies: false,
     });
 
-    var size = 200;
 
-    // implementation of CustomLayerInterface to draw a pulsing dot icon on the map
-    // see ht?fresh=truetps://docs.mapbox.com/mapbox-gl-js/api/#customlayerinterface for more info
-    var pulsingDot = {
-        pitchAlignment: map, 
-        width: size,
-        height: size,
-        data: new Uint8Array(size * size * 4),
 
-        // get rendering context for the map canvas when layer is added to the map
-        onAdd: function () {
-            var canvas = document.createElement('canvas');
-            canvas.width = this.width;
-            canvas.height = this.height;
-            this.context = canvas.getContext('2d');
-        },
+map.on('style.load', function() {
 
-        // called once before every frame where the icon will be used
-        render: function () {
-            var duration = 1000;
-            var t = (performance.now() % duration) / duration;
+map.addLayer({
+  'id': 'sky',
+  'type': 'sky',
+  'paint': {
+    'sky-type': 'gradient',
+    'sky-gradient': [
+      'interpolate',
+      ['linear'],
+      ['sky-radial-progress'],
+      0.8,
+      'rgba(291, 0, 68, 1.0)',
+      0,
+      'white'
+    ],
+    'sky-gradient-center': [0, 0],
+    'sky-gradient-radius': 90,
+    'sky-opacity': [
+      'interpolate',
+      ['exponential', 0.1],
+      ['zoom'],
+      5,
+      0,
+      22,
+      1
+    ]
+  }
+});
 
-            var radius = (size / 2) * 0.3;
-            var outerRadius = (size / 2) * 0.7 * t + radius;
-            var context = this.context;
 
-            // draw outer circle
-            context.clearRect(0, 0, this.width, this.height);
-            context.beginPath();
-            context.arc(
-                this.width / 2,
-                this.height / 2,
-                outerRadius,
-                0,
-                Math.PI * 2
-            );
-            context.fillStyle = 'rgba(255, 200, 200,' + (1 - t) + ')';
-            context.fill();
-
-            // draw inner circle
-            context.beginPath();
-            context.arc(
-                this.width / 2,
-                this.height / 2,
-                radius,
-                0,
-                Math.PI * 2
-            );
-            context.fillStyle = 'rgba(255, 100, 100, 0)';
-            context.strokeStyle = 'transparent';
-            context.lineWidth = 2 + 4 * (1 - t);
-            context.fill();
-            context.stroke();
-
-            // update this image's data with data from the canvas
-            this.data = context.getImageData(
-                0,
-                0,
-                this.width,
-                this.height
-            ).data;
-
-            // continuously repaint the map, resulting in the smooth animation of the dot
-            map.triggerRepaint();
-
-            // return `true` to let the map know that the image was update-2.243101
-            return true;
-        }
-    };
-
-    map.on('load', function () {
-        map.addImage('pulsing-dot', pulsingDot, { pixelRatio: 3 });
-
-        map.addSource('points', {
-            'type': 'geojson',
-            'data': {
-                'type': 'FeatureCollection',
-                'features': [
-                    {
-                        'type': 'Feature',
-                        'geometry': {
-                            'type': 'Point',
-                            'coordinates': [-2.243524, 51.861824]
-                        }
-                    }
-                ]
-            }
-        });
-        map.addLayer({
-            'id': 'points',
-            'type': 'symbol',
-            'source': 'points',
-            'layout': {
-                'icon-image': 'pulsing-dot'
-            }
-        });
+map.addSource('mapbox-dem', {
+        "type": "raster-dem",
+        "url": "mapbox://mapbox.terrain-rgb",
+        "tileSize": 512,
+        "maxzoom": 14
     });
+
+map.setTerrain({"source": "mapbox-dem", "exaggeration": 20});
+});
+
+
+
+
+
+
+</script>
+</html>
